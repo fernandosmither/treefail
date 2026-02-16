@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css'
+import PostHog from '../components/posthog.astro'
 
 interface Props {
   title: string;
@@ -25,6 +26,7 @@ const { title, description = "Security research: credential leaks in TreeHacks 2
     <meta property="og:url" content="https://treefail.fdosmith.dev" />
 
     <title>{title}</title>
+    <PostHog />
   </head>
   <body class="bg-zinc-950 text-zinc-100 min-h-screen antialiased">
     <slot />
