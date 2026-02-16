@@ -262,12 +262,12 @@ const typeColors: Record<string, string> = {
                     data-type={f.secret_type.toLowerCase()}>
                   <td class="py-2 px-3 text-zinc-300 max-w-48 truncate">{f.project_name}</td>
                   <td class="py-2 px-3">
-                    <a href={f.repo_url} target="_blank" rel="noopener" class="text-blue-400 hover:text-blue-300 font-mono text-xs">
+                    <span class="blur-[6px] select-none font-mono text-xs text-blue-400">
                       {repoSlug}
-                    </a>
+                    </span>
                   </td>
-                  <td class="py-2 px-3 font-mono text-xs text-zinc-400 max-w-64 truncate" title={f.file_path}>
-                    {f.file_path}:{f.line_number}
+                  <td class="py-2 px-3 font-mono text-xs text-zinc-400 max-w-64 truncate">
+                    <span class="blur-[6px] select-none">{f.file_path}:{f.line_number}</span>
                   </td>
                   <td class="py-2 px-3">
                     <span class="inline-block w-2 h-2 rounded-full mr-1.5" style={`background-color: ${typeColors[f.secret_type] || '#6b7280'}`} />
