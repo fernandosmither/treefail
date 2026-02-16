@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" width="200" height="220">
+  <defs>
+    <!-- Gradient for the tree canopy - sickly red/orange -->
+    <radialGradient id="canopyGrad" cx="50%" cy="45%" r="50%">
+      <stop offset="0%" stop-color="#e05530"/>
+      <stop offset="70%" stop-color="#c0392b"/>
+      <stop offset="100%" stop-color="#922b21"/>
+    </radialGradient>
+    <!-- Gradient for the trunk -->
+    <linearGradient id="trunkGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8B5E3C"/>
+      <stop offset="100%" stop-color="#5D3A1A"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Falling leaves -->
+  <g opacity="0.6">
+    <!-- Leaf 1 - falling left -->
+    <path d="M48 95 Q44 90 46 85 Q50 88 48 95Z" fill="#e05530" transform="rotate(-25, 48, 90)"/>
+    <!-- Leaf 2 - falling right -->
+    <path d="M158 100 Q154 95 156 90 Q160 93 158 100Z" fill="#c0392b" transform="rotate(20, 158, 95)"/>
+    <!-- Leaf 3 - lower left -->
+    <path d="M38 130 Q34 125 36 120 Q40 123 38 130Z" fill="#922b21" transform="rotate(-40, 38, 125)"/>
+    <!-- Leaf 4 - lower right -->
+    <path d="M165 135 Q161 130 163 125 Q167 128 165 135Z" fill="#e05530" transform="rotate(30, 165, 130)"/>
+    <!-- Leaf 5 - far fallen -->
+    <path d="M30 160 Q26 155 28 150 Q32 153 30 160Z" fill="#c0392b" transform="rotate(-50, 30, 155)"/>
+  </g>
+
+  <!-- Tree trunk - slightly crooked to look damaged -->
+  <path d="M92 130 L88 195 Q87 200 90 200 L110 200 Q113 200 112 195 L108 130Z" fill="url(#trunkGrad)" stroke="#4A2F1A" stroke-width="1"/>
+
+  <!-- Crack on trunk -->
+  <path d="M98 145 L96 155 L100 160 L97 172 L99 180" fill="none" stroke="#3A1F0A" stroke-width="1.5" stroke-linecap="round"/>
+
+  <!-- Small root lines -->
+  <path d="M90 198 Q75 205 68 210" fill="none" stroke="#5D3A1A" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M110 198 Q125 205 132 210" fill="none" stroke="#5D3A1A" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Main canopy - wilted/drooping shape -->
+  <path d="
+    M100 18
+    Q120 15 138 30
+    Q158 48 155 65
+    Q160 75 155 85
+    Q150 100 142 108
+    Q148 112 145 120
+    Q140 128 130 130
+    L108 130
+    L92 130
+    L70 130
+    Q60 128 55 120
+    Q52 112 58 108
+    Q50 100 45 85
+    Q40 75 45 65
+    Q42 48 62 30
+    Q80 15 100 18Z
+  " fill="url(#canopyGrad)" stroke="#7B241C" stroke-width="1.5"/>
+
+  <!-- Drooping branch left -->
+  <path d="M55 80 Q35 95 28 115" fill="none" stroke="#8B5E3C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M30 110 Q26 108 24 112 Q28 116 30 110Z" fill="#922b21"/>
+
+  <!-- Drooping branch right -->
+  <path d="M145 75 Q165 90 172 112" fill="none" stroke="#8B5E3C" stroke-width="3" stroke-linecap="round"/>
+  <path d="M170 107 Q174 105 176 110 Q172 114 170 107Z" fill="#922b21"/>
+
+  <!-- Dead eyes: x_x -->
+  <!-- Left eye - X -->
+  <g stroke="#1a1a2e" stroke-width="3.5" stroke-linecap="round">
+    <line x1="72" y1="58" x2="86" y2="72"/>
+    <line x1="86" y1="58" x2="72" y2="72"/>
+  </g>
+  <!-- Right eye - X -->
+  <g stroke="#1a1a2e" stroke-width="3.5" stroke-linecap="round">
+    <line x1="114" y1="58" x2="128" y2="72"/>
+    <line x1="128" y1="58" x2="114" y2="72"/>
+  </g>
+
+  <!-- Squiggly sad mouth -->
+  <path d="M82 90 Q88 82 95 88 Q102 94 108 86 Q114 80 118 88" fill="none" stroke="#1a1a2e" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Small "dizzy" stars around the tree to emphasize failure -->
+  <g fill="#e8a838" opacity="0.7">
+    <!-- Star 1 -->
+    <polygon points="42,40 44,36 46,40 50,41 46,43 47,47 44,44 41,47 42,43 38,41" transform="rotate(15, 44, 41)"/>
+    <!-- Star 2 -->
+    <polygon points="152,35 154,31 156,35 160,36 156,38 157,42 154,39 151,42 152,38 148,36" transform="rotate(-10, 154, 36)"/>
+    <!-- Star 3 -->
+    <polygon points="160,55 162,51 164,55 168,56 164,58 165,62 162,59 159,62 160,58 156,56"/>
+  </g>
+</svg>

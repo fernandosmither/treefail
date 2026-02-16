@@ -1,0 +1,1604 @@
+[
+  {
+    "project_name": "Phone AI",
+    "devpost_url": "https://devpost.com/software/a3-artificial-assistant-for-anything",
+    "repo_url": "https://github.com/kanakapalli/phone_ai",
+    "file_path": "docs/passwords.sample.yaml",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...XXXX",
+    "line_number": 49
+  },
+  {
+    "project_name": "Phone AI",
+    "devpost_url": "https://devpost.com/software/a3-artificial-assistant-for-anything",
+    "repo_url": "https://github.com/kanakapalli/phone_ai",
+    "file_path": "docs/passwords.sample.yaml",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "auth...ere'",
+    "line_number": 22
+  },
+  {
+    "project_name": "Phone AI",
+    "devpost_url": "https://devpost.com/software/a3-artificial-assistant-for-anything",
+    "repo_url": "https://github.com/kanakapalli/phone_ai",
+    "file_path": "docs/passwords.sample.yaml",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "api_...XXX'",
+    "line_number": 49
+  },
+  {
+    "project_name": "Phone AI",
+    "devpost_url": "https://devpost.com/software/a3-artificial-assistant-for-anything",
+    "repo_url": "https://github.com/kanakapalli/phone_ai",
+    "file_path": "docs/CALL_FLOW_ARCHITECTURE.md",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...e_ai",
+    "line_number": 1095
+  },
+  {
+    "project_name": "Phone AI",
+    "devpost_url": "https://devpost.com/software/a3-artificial-assistant-for-anything",
+    "repo_url": "https://github.com/kanakapalli/phone_ai",
+    "file_path": "phone_ai_server/docker-compose.yaml",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "PASS...35L\"",
+    "line_number": 10
+  },
+  {
+    "project_name": "Phone AI",
+    "devpost_url": "https://devpost.com/software/a3-artificial-assistant-for-anything",
+    "repo_url": "https://github.com/kanakapalli/phone_ai",
+    "file_path": "phone_ai_server/docker-compose.yaml",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "PASS...LTv\"",
+    "line_number": 30
+  },
+  {
+    "project_name": "ADEX - Adaptive Data Extraction System",
+    "devpost_url": "https://devpost.com/software/adex-adaptive-data-extraction-system",
+    "repo_url": "https://github.com/kanakapalli/adex",
+    "file_path": "adex_server/docker-compose.yaml",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "PASS...uhY\"",
+    "line_number": 10
+  },
+  {
+    "project_name": "ADEX - Adaptive Data Extraction System",
+    "devpost_url": "https://devpost.com/software/adex-adaptive-data-extraction-system",
+    "repo_url": "https://github.com/kanakapalli/adex",
+    "file_path": "adex_server/docker-compose.yaml",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "PASS...mTQ\"",
+    "line_number": 30
+  },
+  {
+    "project_name": "ADEX - Adaptive Data Extraction System",
+    "devpost_url": "https://devpost.com/software/adex-adaptive-data-extraction-system",
+    "repo_url": "https://github.com/kanakapalli/adex",
+    "file_path": "adex_server/lib/src/videoExtractions/weedit-india-ddab251d446c.json",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 5
+  },
+  {
+    "project_name": "ADEX - Adaptive Data Extraction System",
+    "devpost_url": "https://devpost.com/software/adex-adaptive-data-extraction-system",
+    "repo_url": "https://github.com/kanakapalli/adex",
+    "file_path": "adex_server/lib/src/videoExtractions/videoExration.dart",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 749
+  },
+  {
+    "project_name": "AiOn",
+    "devpost_url": "https://devpost.com/software/aion-n75vj3",
+    "repo_url": "https://github.com/shikhar0777/anion-rdy",
+    "file_path": "docker-compose.yml",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...ulse",
+    "line_number": 39
+  },
+  {
+    "project_name": "AiOn",
+    "devpost_url": "https://devpost.com/software/aion-n75vj3",
+    "repo_url": "https://github.com/shikhar0777/anion-rdy",
+    "file_path": "docker-compose.yml",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...ulse",
+    "line_number": 54
+  },
+  {
+    "project_name": "AiOn",
+    "devpost_url": "https://devpost.com/software/aion-n75vj3",
+    "repo_url": "https://github.com/shikhar0777/anion-rdy",
+    "file_path": "apps/api/config.py",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...ulse",
+    "line_number": 23
+  },
+  {
+    "project_name": "alt+cart",
+    "devpost_url": "https://devpost.com/software/alt-cart",
+    "repo_url": "https://github.com/Supernova-45/Alt-Cart",
+    "file_path": "web/public/webpages/walmart_backpack.html",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...BEMg",
+    "line_number": 12
+  },
+  {
+    "project_name": "alt+cart",
+    "devpost_url": "https://devpost.com/software/alt-cart",
+    "repo_url": "https://github.com/Supernova-45/Alt-Cart",
+    "file_path": "web/public/webpages/walmart_backpack.html",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...RTEo",
+    "line_number": 12
+  },
+  {
+    "project_name": "alt+cart",
+    "devpost_url": "https://devpost.com/software/alt-cart",
+    "repo_url": "https://github.com/Supernova-45/Alt-Cart",
+    "file_path": "web/public/webpages/walmart_backpack.html",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...o1HY",
+    "line_number": 12
+  },
+  {
+    "project_name": "alt+cart",
+    "devpost_url": "https://devpost.com/software/alt-cart",
+    "repo_url": "https://github.com/Supernova-45/Alt-Cart",
+    "file_path": "web/public/webpages/walmart_backpack.html",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...btp0",
+    "line_number": 12
+  },
+  {
+    "project_name": "alt+cart",
+    "devpost_url": "https://devpost.com/software/alt-cart",
+    "repo_url": "https://github.com/Supernova-45/Alt-Cart",
+    "file_path": "web/public/webpages/walmart_backpack.html",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...KldM",
+    "line_number": 12
+  },
+  {
+    "project_name": "Arena",
+    "devpost_url": "https://devpost.com/software/arena-lz2m84",
+    "repo_url": "https://github.com/TomBinford/treehacks",
+    "file_path": "backend/test/fixtures/mock-cert.pem",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 1
+  },
+  {
+    "project_name": "RELAY \u2013 Voice, Search, Stream: Save patients from rigs to ER",
+    "devpost_url": "https://devpost.com/software/aria-voice-search-stream-save-patients-from-rigs-to-er",
+    "repo_url": "https://github.com/vinamra57/relay",
+    "file_path": "docs/gcp-setup.md",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...elay",
+    "line_number": 29
+  },
+  {
+    "project_name": "RELAY \u2013 Voice, Search, Stream: Save patients from rigs to ER",
+    "devpost_url": "https://devpost.com/software/aria-voice-search-stream-save-patients-from-rigs-to-er",
+    "repo_url": "https://github.com/vinamra57/relay",
+    "file_path": "docs/gcp-setup.md",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...sql/",
+    "line_number": 36
+  },
+  {
+    "project_name": "AutoLab Labs",
+    "devpost_url": "https://devpost.com/software/auto-lab",
+    "repo_url": "https://github.com/nlee1126/TreeHacks_26",
+    "file_path": "raman-agent/backend/llm_parser.py",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-x...xxxx",
+    "line_number": 32
+  },
+  {
+    "project_name": "AutoLab Labs",
+    "devpost_url": "https://devpost.com/software/auto-lab",
+    "repo_url": "https://github.com/nlee1126/TreeHacks_26",
+    "file_path": "raman-agent/backend/llm_parser.py",
+    "secret_type": "Anthropic API Key",
+    "redacted_secret": "sk-a...xxxx",
+    "line_number": 37
+  },
+  {
+    "project_name": "brain2bach",
+    "devpost_url": "https://devpost.com/software/brain2beet",
+    "repo_url": "https://github.com/MarkOfUs/brain2bach",
+    "file_path": "runpod_pipeline.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...owk\"",
+    "line_number": 13
+  },
+  {
+    "project_name": "Bubble",
+    "devpost_url": "https://devpost.com/software/bubble-5o1ztb",
+    "repo_url": "https://github.com/quinns-children/bubble",
+    "file_path": "quinn/venv/lib/python3.12/site-packages/tornado/test/test.key",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 1
+  },
+  {
+    "project_name": "Bubble",
+    "devpost_url": "https://devpost.com/software/bubble-5o1ztb",
+    "repo_url": "https://github.com/quinns-children/bubble",
+    "file_path": "quinn/venv/lib/python3.12/site-packages/tornado/test/auth_test.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "api_...key\"",
+    "line_number": 337
+  },
+  {
+    "project_name": "Bubble",
+    "devpost_url": "https://devpost.com/software/bubble-5o1ztb",
+    "repo_url": "https://github.com/quinns-children/bubble",
+    "file_path": "quinn/venv/lib/python3.12/site-packages/aioquic/quic/configuration.py",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 133
+  },
+  {
+    "project_name": "Bye! Buy!",
+    "devpost_url": "https://devpost.com/software/bye-buy",
+    "repo_url": "https://github.com/jpsingaraju/bye-buy",
+    "file_path": "IMPLEMENTATION.md",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...FiEg",
+    "line_number": 240
+  },
+  {
+    "project_name": "Carebnb",
+    "devpost_url": "https://devpost.com/software/carebnb-y39foj",
+    "repo_url": "https://github.com/SonaLily/CAREBnB_",
+    "file_path": "run-migrations.mjs",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...gres",
+    "line_number": 62
+  },
+  {
+    "project_name": "Carebnb",
+    "devpost_url": "https://devpost.com/software/carebnb-y39foj",
+    "repo_url": "https://github.com/SonaLily/CAREBnB_",
+    "file_path": "audio-model/src/models/component4/patient_eval_template.pdf:Zone.Identifier",
+    "secret_type": "AWS Access Key",
+    "redacted_secret": "AKIA...UJ26",
+    "line_number": 4
+  },
+  {
+    "project_name": "Cena",
+    "devpost_url": "https://devpost.com/software/cena",
+    "repo_url": "https://github.com/nvemuri4649/treehacks-26",
+    "file_path": "client/rater_agent.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "api_...key\"",
+    "line_number": 25
+  },
+  {
+    "project_name": "Curious Catalyst",
+    "devpost_url": "https://devpost.com/software/curiosity-gabstn",
+    "repo_url": "https://github.com/laasya-konidala/TreeHacks-2026",
+    "file_path": "learning-companion-extension/background.js",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...ERE'",
+    "line_number": 8
+  },
+  {
+    "project_name": ".dot: bringing humanity to in-home care",
+    "devpost_url": "https://devpost.com/software/dot-bringing-humanity-to-in-home-care",
+    "repo_url": "https://github.com/o-bm/dot",
+    "file_path": "voice_agent/voice_agent/.env",
+    "secret_type": "Twilio Account SID",
+    "redacted_secret": "AC2e...d860",
+    "line_number": 5
+  },
+  {
+    "project_name": "EdgeLedger",
+    "devpost_url": "https://devpost.com/software/edgeledger",
+    "repo_url": "https://github.com/UnknownGod2011/LMAedge",
+    "file_path": "test-gemini-api.js",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...MB_k",
+    "line_number": 4
+  },
+  {
+    "project_name": "EdgeLedger",
+    "devpost_url": "https://devpost.com/software/edgeledger",
+    "repo_url": "https://github.com/UnknownGod2011/LMAedge",
+    "file_path": "test-gemini-api.js",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...B_k'",
+    "line_number": 4
+  },
+  {
+    "project_name": "EdgeLedger",
+    "devpost_url": "https://devpost.com/software/edgeledger",
+    "repo_url": "https://github.com/UnknownGod2011/LMAedge",
+    "file_path": "list-models.js",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...MB_k",
+    "line_number": 3
+  },
+  {
+    "project_name": "EdgeLedger",
+    "devpost_url": "https://devpost.com/software/edgeledger",
+    "repo_url": "https://github.com/UnknownGod2011/LMAedge",
+    "file_path": "list-models.js",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...B_k'",
+    "line_number": 3
+  },
+  {
+    "project_name": "EdgeLedger",
+    "devpost_url": "https://devpost.com/software/edgeledger",
+    "repo_url": "https://github.com/UnknownGod2011/LMAedge",
+    "file_path": "check-api.js",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...MB_k",
+    "line_number": 2
+  },
+  {
+    "project_name": "EdgeLedger",
+    "devpost_url": "https://devpost.com/software/edgeledger",
+    "repo_url": "https://github.com/UnknownGod2011/LMAedge",
+    "file_path": "check-api.js",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...B_k'",
+    "line_number": 2
+  },
+  {
+    "project_name": "GenUIne",
+    "devpost_url": "https://devpost.com/software/genuine-0pk8vg",
+    "repo_url": "https://github.com/bobdethird/genUIne",
+    "file_path": "lib/tools/hackernews.ts",
+    "secret_type": "Firebase URL",
+    "redacted_secret": "http....com",
+    "line_number": 21
+  },
+  {
+    "project_name": "GenUIne",
+    "devpost_url": "https://devpost.com/software/genuine-0pk8vg",
+    "repo_url": "https://github.com/bobdethird/genUIne",
+    "file_path": "lib/tools/hackernews.ts",
+    "secret_type": "Firebase URL",
+    "redacted_secret": "http....com",
+    "line_number": 34
+  },
+  {
+    "project_name": "Gitty.ai",
+    "devpost_url": "https://devpost.com/software/gitty-ai",
+    "repo_url": "https://github.com/ethanjoby/gitty",
+    "file_path": "src/firebase.ts",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...ca-E",
+    "line_number": 7
+  },
+  {
+    "project_name": "Gitty.ai",
+    "devpost_url": "https://devpost.com/software/gitty-ai",
+    "repo_url": "https://github.com/ethanjoby/gitty",
+    "file_path": "src/firebase.ts",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "apiK...a-E'",
+    "line_number": 7
+  },
+  {
+    "project_name": "Cortex",
+    "devpost_url": "https://devpost.com/software/glyph-7hjrkp",
+    "repo_url": "https://github.com/AdityaYC/Cortex-Treehacks",
+    "file_path": "docs/DISCORD_SLACK_SETUP.md",
+    "secret_type": "Slack Token",
+    "redacted_secret": "xoxb...oken",
+    "line_number": 73
+  },
+  {
+    "project_name": "Cortex",
+    "devpost_url": "https://devpost.com/software/glyph-7hjrkp",
+    "repo_url": "https://github.com/AdityaYC/Cortex-Treehacks",
+    "file_path": "docs/WINDOWS_ONLY_SETUP.md",
+    "secret_type": "Slack Token",
+    "redacted_secret": "xoxb...oken",
+    "line_number": 80
+  },
+  {
+    "project_name": "Sprout",
+    "devpost_url": "https://devpost.com/software/greenguardian-microfarm",
+    "repo_url": "https://github.com/lethan3/cactushacks",
+    "file_path": "plant_vision.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...bvI\"",
+    "line_number": 31
+  },
+  {
+    "project_name": "HackOverflow: Stack Overflow for AI Agents",
+    "devpost_url": "https://devpost.com/software/hackoverflow-stack-overflow-for-ai-agents-at-hackathons",
+    "repo_url": "https://github.com/vrinda-inani/treehacks26",
+    "file_path": "api/seed.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...w==\"",
+    "line_number": 16
+  },
+  {
+    "project_name": "HackOverflow: Stack Overflow for AI Agents",
+    "devpost_url": "https://devpost.com/software/hackoverflow-stack-overflow-for-ai-agents-at-hackathons",
+    "repo_url": "https://github.com/vrinda-inani/treehacks26",
+    "file_path": "api/seed2.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...w==\"",
+    "line_number": 17
+  },
+  {
+    "project_name": "FrontLine",
+    "devpost_url": "https://devpost.com/software/hello-m52pvi",
+    "repo_url": "https://github.com/sanjanas18/frontline",
+    "file_path": "operator-dashboard/public/zoom-sdk/zoom-sdk-web-5.1.2/Local/localhost.key",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 1
+  },
+  {
+    "project_name": "FrontLine",
+    "devpost_url": "https://devpost.com/software/hello-m52pvi",
+    "repo_url": "https://github.com/sanjanas18/frontline",
+    "file_path": "operator-dashboard/public/zoom-sdk/zoom-sdk-web-5.1.2/CDN/localhost.key",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 1
+  },
+  {
+    "project_name": "Hexi",
+    "devpost_url": "https://devpost.com/software/hexi",
+    "repo_url": "https://github.com/IvanRatushnyy/TreeHacks-2026",
+    "file_path": "saging-api/scripts/setup_aws.py",
+    "secret_type": "Anthropic API Key",
+    "redacted_secret": "sk-a...sole",
+    "line_number": 41
+  },
+  {
+    "project_name": "ICEalert",
+    "devpost_url": "https://devpost.com/software/icealert",
+    "repo_url": "https://github.com/coderkai03/icealert",
+    "file_path": "src/webrtc/frontend/landing.html",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...Y__'",
+    "line_number": 101
+  },
+  {
+    "project_name": "ICEalert",
+    "devpost_url": "https://devpost.com/software/icealert",
+    "repo_url": "https://github.com/coderkai03/icealert",
+    "file_path": "src/webrtc/frontend/video.html",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...Y__'",
+    "line_number": 96
+  },
+  {
+    "project_name": "ICEalert",
+    "devpost_url": "https://devpost.com/software/icealert",
+    "repo_url": "https://github.com/coderkai03/icealert-mobile",
+    "file_path": ".env",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...cHEM",
+    "line_number": 3
+  },
+  {
+    "project_name": "Kardashev",
+    "devpost_url": "https://devpost.com/software/kardashev",
+    "repo_url": "https://github.com/3LucasZ/kardashev",
+    "file_path": "config.py",
+    "secret_type": "Anthropic API Key",
+    "redacted_secret": "sk-a...XAAA",
+    "line_number": 27
+  },
+  {
+    "project_name": "Kardashev",
+    "devpost_url": "https://devpost.com/software/kardashev",
+    "repo_url": "https://github.com/3LucasZ/kardashev",
+    "file_path": "config.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "api_...AAA\"",
+    "line_number": 27
+  },
+  {
+    "project_name": "Lets-Cook",
+    "devpost_url": "https://devpost.com/software/lets-cook",
+    "repo_url": "https://github.com/UnknownGod2011/LetsCook",
+    "file_path": "README.md",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...ere\"",
+    "line_number": 68
+  },
+  {
+    "project_name": "Lets-Cook",
+    "devpost_url": "https://devpost.com/software/lets-cook",
+    "repo_url": "https://github.com/UnknownGod2011/LetsCook",
+    "file_path": "README.md",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...ere\"",
+    "line_number": 69
+  },
+  {
+    "project_name": "Lets-Cook",
+    "devpost_url": "https://devpost.com/software/lets-cook",
+    "repo_url": "https://github.com/UnknownGod2011/LetsCook",
+    "file_path": "README.md",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...ere\"",
+    "line_number": 70
+  },
+  {
+    "project_name": "Lets-Cook",
+    "devpost_url": "https://devpost.com/software/lets-cook",
+    "repo_url": "https://github.com/UnknownGod2011/LetsCook",
+    "file_path": "api_keys_config.txt",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...pttg",
+    "line_number": 5
+  },
+  {
+    "project_name": "Lets-Cook",
+    "devpost_url": "https://devpost.com/software/lets-cook",
+    "repo_url": "https://github.com/UnknownGod2011/LetsCook",
+    "file_path": "lib/core/services/revenuecat_service.dart",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "ApiK...RTn'",
+    "line_number": 6
+  },
+  {
+    "project_name": "Lets-Cook",
+    "devpost_url": "https://devpost.com/software/lets-cook",
+    "repo_url": "https://github.com/UnknownGod2011/LetsCook",
+    "file_path": "lib/core/services/gemini_service.dart",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...pttg",
+    "line_number": 12
+  },
+  {
+    "project_name": "Lets-Cook",
+    "devpost_url": "https://devpost.com/software/lets-cook",
+    "repo_url": "https://github.com/UnknownGod2011/LetsCook",
+    "file_path": "lib/core/config/environment.dart",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "ApiK...ere'",
+    "line_number": 13
+  },
+  {
+    "project_name": "Lets-Cook",
+    "devpost_url": "https://devpost.com/software/lets-cook",
+    "repo_url": "https://github.com/UnknownGod2011/LetsCook",
+    "file_path": "lib/core/config/environment.dart",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "ApiK...ere'",
+    "line_number": 17
+  },
+  {
+    "project_name": "Lets-Cook",
+    "devpost_url": "https://devpost.com/software/lets-cook",
+    "repo_url": "https://github.com/UnknownGod2011/LetsCook",
+    "file_path": "lib/core/config/environment.dart",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "ApiK...ere'",
+    "line_number": 21
+  },
+  {
+    "project_name": "Lets-Cook",
+    "devpost_url": "https://devpost.com/software/lets-cook",
+    "repo_url": "https://github.com/UnknownGod2011/LetsCook",
+    "file_path": "letscook_server/letscook_server_server/docker-compose.yaml",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "PASS...bQb\"",
+    "line_number": 10
+  },
+  {
+    "project_name": "Lets-Cook",
+    "devpost_url": "https://devpost.com/software/lets-cook",
+    "repo_url": "https://github.com/UnknownGod2011/LetsCook",
+    "file_path": "letscook_server/letscook_server_server/docker-compose.yaml",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "PASS...XMo\"",
+    "line_number": 30
+  },
+  {
+    "project_name": "Longshot",
+    "devpost_url": "https://devpost.com/software/longshot",
+    "repo_url": "https://github.com/andrewcai8/agentswarm",
+    "file_path": "generated-repos/decagon-assistant/README.md",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...tant",
+    "line_number": 33
+  },
+  {
+    "project_name": "MeBoard",
+    "devpost_url": "https://devpost.com/software/meboard",
+    "repo_url": "https://github.com/emngarcia/MeBoard",
+    "file_path": "MeBoard/MeBoard.keyboard/KeyboardViewController.swift",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...nQoY",
+    "line_number": 10
+  },
+  {
+    "project_name": "MeBoard",
+    "devpost_url": "https://devpost.com/software/meboard",
+    "repo_url": "https://github.com/emngarcia/MeBoard",
+    "file_path": "MeBoard/MeBoard/dashboard.swift",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...nQoY",
+    "line_number": 39
+  },
+  {
+    "project_name": "MeBoard",
+    "devpost_url": "https://devpost.com/software/meboard",
+    "repo_url": "https://github.com/emngarcia/MeBoard",
+    "file_path": "MeBoard/MeBoard/ChatAPI.swift",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...nQoY",
+    "line_number": 82
+  },
+  {
+    "project_name": "Memoria",
+    "devpost_url": "https://devpost.com/software/memoria-zn70lb",
+    "repo_url": "https://github.com/jason-zhxn/memoria",
+    "file_path": "web/test-liveavatar.js",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...369'",
+    "line_number": 6
+  },
+  {
+    "project_name": "Memoria",
+    "devpost_url": "https://devpost.com/software/memoria-zn70lb",
+    "repo_url": "https://github.com/jason-zhxn/memoria",
+    "file_path": "web/test-heygen.js",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...cow'",
+    "line_number": 6
+  },
+  {
+    "project_name": "Mira Mira on Da Wall",
+    "devpost_url": "https://devpost.com/software/mira-3xqlos",
+    "repo_url": "https://github.com/23jmo/mirrorless",
+    "file_path": "docs/plans/2026-02-14-data-scraping-pipeline.md",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...uire",
+    "line_number": 1659
+  },
+  {
+    "project_name": "Mira Mira on Da Wall",
+    "devpost_url": "https://devpost.com/software/mira-3xqlos",
+    "repo_url": "https://github.com/23jmo/mirrorless",
+    "file_path": "jenny/generate-scripted.sh",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...7ce\"",
+    "line_number": 11
+  },
+  {
+    "project_name": "Mira Mira on Da Wall",
+    "devpost_url": "https://devpost.com/software/mira-3xqlos",
+    "repo_url": "https://github.com/23jmo/mirrorless",
+    "file_path": "jenny/src/config.js",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...rWgc",
+    "line_number": 4
+  },
+  {
+    "project_name": "Mira Mira on Da Wall",
+    "devpost_url": "https://devpost.com/software/mira-3xqlos",
+    "repo_url": "https://github.com/23jmo/mirrorless",
+    "file_path": "jenny/src/config.js",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...Wgc'",
+    "line_number": 4
+  },
+  {
+    "project_name": "Mira Mira on Da Wall",
+    "devpost_url": "https://devpost.com/software/mira-3xqlos",
+    "repo_url": "https://github.com/23jmo/mirrorless",
+    "file_path": "jenny/src/config.js",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...7ce'",
+    "line_number": 8
+  },
+  {
+    "project_name": "Mira",
+    "devpost_url": "https://devpost.com/software/mira-w65b0a",
+    "repo_url": "https://github.com/nathanjzhao/treehacks2026",
+    "file_path": "explorer/gemini_client.py",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...6lv4",
+    "line_number": 23
+  },
+  {
+    "project_name": "Mira",
+    "devpost_url": "https://devpost.com/software/mira-w65b0a",
+    "repo_url": "https://github.com/nathanjzhao/treehacks2026",
+    "file_path": "explorer/gemini_client.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...523\"",
+    "line_number": 18
+  },
+  {
+    "project_name": "Mira",
+    "devpost_url": "https://devpost.com/software/mira-w65b0a",
+    "repo_url": "https://github.com/nathanjzhao/treehacks2026",
+    "file_path": "explorer/gemini_client.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...lv4\"",
+    "line_number": 23
+  },
+  {
+    "project_name": "Mira",
+    "devpost_url": "https://devpost.com/software/mira-w65b0a",
+    "repo_url": "https://github.com/nathanjzhao/treehacks2026",
+    "file_path": "explorer/openrouter_client.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...523\"",
+    "line_number": 13
+  },
+  {
+    "project_name": "Omni AI: The Fully Autonomous Multi-Agent Digital Assistant",
+    "devpost_url": "https://devpost.com/software/omni-ai-the-truly-autonomous-digital-assistant",
+    "repo_url": "https://github.com/adhvaidhsunny/omni-ai",
+    "file_path": "open-source-tools/OpenManus/README.md",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...t5T4",
+    "line_number": 28
+  },
+  {
+    "project_name": "Omni AI: The Fully Autonomous Multi-Agent Digital Assistant",
+    "devpost_url": "https://devpost.com/software/omni-ai-the-truly-autonomous-digital-assistant",
+    "repo_url": "https://github.com/adhvaidhsunny/omni-ai",
+    "file_path": "open-source-tools/OpenManus/README.md",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...t5T4",
+    "line_number": 28
+  },
+  {
+    "project_name": "Omni AI: The Fully Autonomous Multi-Agent Digital Assistant",
+    "devpost_url": "https://devpost.com/software/omni-ai-the-truly-autonomous-digital-assistant",
+    "repo_url": "https://github.com/adhvaidhsunny/omni-ai",
+    "file_path": "open-source-tools/OpenManus/README_ko.md",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...t5T4",
+    "line_number": 28
+  },
+  {
+    "project_name": "Omni AI: The Fully Autonomous Multi-Agent Digital Assistant",
+    "devpost_url": "https://devpost.com/software/omni-ai-the-truly-autonomous-digital-assistant",
+    "repo_url": "https://github.com/adhvaidhsunny/omni-ai",
+    "file_path": "open-source-tools/OpenManus/README_ko.md",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...t5T4",
+    "line_number": 28
+  },
+  {
+    "project_name": "Omni AI: The Fully Autonomous Multi-Agent Digital Assistant",
+    "devpost_url": "https://devpost.com/software/omni-ai-the-truly-autonomous-digital-assistant",
+    "repo_url": "https://github.com/adhvaidhsunny/omni-ai",
+    "file_path": "open-source-tools/OpenManus/README_ja.md",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...t5T4",
+    "line_number": 28
+  },
+  {
+    "project_name": "Omni AI: The Fully Autonomous Multi-Agent Digital Assistant",
+    "devpost_url": "https://devpost.com/software/omni-ai-the-truly-autonomous-digital-assistant",
+    "repo_url": "https://github.com/adhvaidhsunny/omni-ai",
+    "file_path": "open-source-tools/OpenManus/README_ja.md",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...t5T4",
+    "line_number": 28
+  },
+  {
+    "project_name": "Omni AI: The Fully Autonomous Multi-Agent Digital Assistant",
+    "devpost_url": "https://devpost.com/software/omni-ai-the-truly-autonomous-digital-assistant",
+    "repo_url": "https://github.com/adhvaidhsunny/omni-ai",
+    "file_path": "open-source-tools/OpenManus/README_zh.md",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...t5T4",
+    "line_number": 29
+  },
+  {
+    "project_name": "Omni AI: The Fully Autonomous Multi-Agent Digital Assistant",
+    "devpost_url": "https://devpost.com/software/omni-ai-the-truly-autonomous-digital-assistant",
+    "repo_url": "https://github.com/adhvaidhsunny/omni-ai",
+    "file_path": "open-source-tools/OpenManus/README_zh.md",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...t5T4",
+    "line_number": 29
+  },
+  {
+    "project_name": "Other Memories",
+    "devpost_url": "https://devpost.com/software/other-memories",
+    "repo_url": "https://github.com/AlessandroMason/treehack_front",
+    "file_path": "PRISMA_SETUP.md",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...res`",
+    "line_number": 11
+  },
+  {
+    "project_name": "Other Memories",
+    "devpost_url": "https://devpost.com/software/other-memories",
+    "repo_url": "https://github.com/AlessandroMason/treehacks_back",
+    "file_path": "migrating_data/new_path/ring-database-firebase-adminsdk-essjy-0cfe7d82d0.json",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 5
+  },
+  {
+    "project_name": "Pilot",
+    "devpost_url": "https://devpost.com/software/pilot-glb9kd",
+    "repo_url": "https://github.com/arihanv/pilot",
+    "file_path": "ios/Sotos/Sotos/LiveModeManager.swift",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "APIK...9UF\"",
+    "line_number": 59
+  },
+  {
+    "project_name": "Pilot",
+    "devpost_url": "https://devpost.com/software/pilot-glb9kd",
+    "repo_url": "https://github.com/arihanv/pilot",
+    "file_path": "ios/Sotos/Sotos/Config.swift",
+    "secret_type": "Supabase Key",
+    "redacted_secret": "eyJh...3LFI",
+    "line_number": 6
+  },
+  {
+    "project_name": "Pilot",
+    "devpost_url": "https://devpost.com/software/pilot-glb9kd",
+    "repo_url": "https://github.com/arihanv/pilot",
+    "file_path": "ios/Sotos/Sotos/Config.swift",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "APIK...a03\"",
+    "line_number": 3
+  },
+  {
+    "project_name": "Plantasia",
+    "devpost_url": "https://devpost.com/software/plantasia",
+    "repo_url": "https://github.com/suchithh/plantasia",
+    "file_path": "keys.md",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...6qqU",
+    "line_number": 4
+  },
+  {
+    "project_name": "Shepherd",
+    "devpost_url": "https://devpost.com/software/raising-cane",
+    "repo_url": "https://github.com/tonywangs/shepherd",
+    "file_path": "README.md",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "APIK...KEY\"",
+    "line_number": 225
+  },
+  {
+    "project_name": "Shepherd",
+    "devpost_url": "https://devpost.com/software/raising-cane",
+    "repo_url": "https://github.com/tonywangs/shepherd",
+    "file_path": "README.md",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "APIK...KEY\"",
+    "line_number": 226
+  },
+  {
+    "project_name": "RecoveryLab: Personalized AI-Powered Physical Therapy",
+    "devpost_url": "https://devpost.com/software/recoverylab",
+    "repo_url": "https://github.com/jamesgu888/RecoveryLab",
+    "file_path": "lib/firebase.ts",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...ha4M",
+    "line_number": 7
+  },
+  {
+    "project_name": "RecoveryLab: Personalized AI-Powered Physical Therapy",
+    "devpost_url": "https://devpost.com/software/recoverylab",
+    "repo_url": "https://github.com/jamesgu888/RecoveryLab",
+    "file_path": "lib/firebase.ts",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "apiK...a4M\"",
+    "line_number": 7
+  },
+  {
+    "project_name": "Reflex",
+    "devpost_url": "https://devpost.com/software/reflex-db5hji",
+    "repo_url": "https://github.com/HikaruSadashi/reflex-backend",
+    "file_path": "README.md",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...name",
+    "line_number": 52
+  },
+  {
+    "project_name": "sched",
+    "devpost_url": "https://devpost.com/software/sched-o6jbsp",
+    "repo_url": "https://github.com/not-aryan/sched",
+    "file_path": "Dockerfile",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...ummy",
+    "line_number": 21
+  },
+  {
+    "project_name": "sched",
+    "devpost_url": "https://devpost.com/software/sched-o6jbsp",
+    "repo_url": "https://github.com/not-aryan/sched",
+    "file_path": "Dockerfile",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...ummy",
+    "line_number": 22
+  },
+  {
+    "project_name": "ShadowGuard",
+    "devpost_url": "https://devpost.com/software/shadowguard-l6yv7p",
+    "repo_url": "https://github.com/shamanthak-hegde/ShadowGuard",
+    "file_path": "README.md",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...ard`",
+    "line_number": 119
+  },
+  {
+    "project_name": "ShadowGuard",
+    "devpost_url": "https://devpost.com/software/shadowguard-l6yv7p",
+    "repo_url": "https://github.com/shamanthak-hegde/ShadowGuard",
+    "file_path": "docker-compose.yml",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...uard",
+    "line_number": 27
+  },
+  {
+    "project_name": "ShadowGuard",
+    "devpost_url": "https://devpost.com/software/shadowguard-l6yv7p",
+    "repo_url": "https://github.com/shamanthak-hegde/ShadowGuard",
+    "file_path": "backend/database.py",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...uard",
+    "line_number": 13
+  },
+  {
+    "project_name": "ShadowGuard",
+    "devpost_url": "https://devpost.com/software/shadowguard-l6yv7p",
+    "repo_url": "https://github.com/shamanthak-hegde/ShadowGuard",
+    "file_path": "backend/database.py",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...name",
+    "line_number": 18
+  },
+  {
+    "project_name": "ShotSpot",
+    "devpost_url": "https://devpost.com/software/shotspot-kfvp1n",
+    "repo_url": "https://github.com/aedutta/shot-spot-treehacks-26",
+    "file_path": "test.py",
+    "secret_type": "MongoDB URI",
+    "redacted_secret": "mong...net/",
+    "line_number": 38
+  },
+  {
+    "project_name": "ShotSpot",
+    "devpost_url": "https://devpost.com/software/shotspot-kfvp1n",
+    "repo_url": "https://github.com/aedutta/shot-spot-treehacks-26",
+    "file_path": "db.py",
+    "secret_type": "MongoDB URI",
+    "redacted_secret": "mong...net/",
+    "line_number": 32
+  },
+  {
+    "project_name": "ShotSpot",
+    "devpost_url": "https://devpost.com/software/shotspot-kfvp1n",
+    "repo_url": "https://github.com/aedutta/shot-spot-treehacks-26",
+    "file_path": "docs/DEPLOY.md",
+    "secret_type": "MongoDB URI",
+    "redacted_secret": "mong...net/",
+    "line_number": 22
+  },
+  {
+    "project_name": "SleepSense",
+    "devpost_url": "https://devpost.com/software/sleepsense-h52ma3",
+    "repo_url": "https://github.com/raj-chinagundi/treehacks-26",
+    "file_path": "hardware/esp32_serial_blocking/esp32_serial_blocking.ino",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 17
+  },
+  {
+    "project_name": "TigerPop",
+    "devpost_url": "https://devpost.com/software/tigerpop",
+    "repo_url": "https://github.com/angelztang/treehacks26",
+    "file_path": "backend/create_tables.py",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...uire",
+    "line_number": 5
+  },
+  {
+    "project_name": "TORQ",
+    "devpost_url": "https://devpost.com/software/torq",
+    "repo_url": "https://github.com/bryandong24/treehacks2026",
+    "file_path": "openpilot/panda/certs/debug",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 1
+  },
+  {
+    "project_name": "TORQ",
+    "devpost_url": "https://devpost.com/software/torq",
+    "repo_url": "https://github.com/bryandong24/treehacks2026",
+    "file_path": "openpilot/system/hardware/tici/id_rsa",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 1
+  },
+  {
+    "project_name": "TORQ",
+    "devpost_url": "https://devpost.com/software/torq",
+    "repo_url": "https://github.com/bryandong24/treehacks2026",
+    "file_path": "sunnypilot/panda/certs/debug",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 1
+  },
+  {
+    "project_name": "TORQ",
+    "devpost_url": "https://devpost.com/software/torq",
+    "repo_url": "https://github.com/bryandong24/treehacks2026",
+    "file_path": "sunnypilot/system/hardware/tici/id_rsa",
+    "secret_type": "Private Key",
+    "redacted_secret": "----...----",
+    "line_number": 1
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "README.md",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "ApiK...KEY'",
+    "line_number": 71
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "README.md",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "Pass...ORD'",
+    "line_number": 75
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/lib/firebase_options.dart",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...iqRc",
+    "line_number": 44
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/lib/firebase_options.dart",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...NVQE",
+    "line_number": 54
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/lib/firebase_options.dart",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...XpNY",
+    "line_number": 62
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/lib/firebase_options.dart",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...XpNY",
+    "line_number": 71
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/lib/firebase_options.dart",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...iqRc",
+    "line_number": 80
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/lib/firebase_options.dart",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "apiK...qRc'",
+    "line_number": 44
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/lib/firebase_options.dart",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "apiK...VQE'",
+    "line_number": 54
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/lib/firebase_options.dart",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "apiK...pNY'",
+    "line_number": 62
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/lib/firebase_options.dart",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "apiK...pNY'",
+    "line_number": 71
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/lib/firebase_options.dart",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "apiK...qRc'",
+    "line_number": 80
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/lib/services/revenue_cat_service.dart",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "apiK...ryA'",
+    "line_number": 26
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/ios/Runner/GoogleService-Info.plist",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...XpNY",
+    "line_number": 6
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/android/app/google-services.json",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...NVQE",
+    "line_number": 18
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_flutter/macos/Runner/GoogleService-Info.plist",
+    "secret_type": "Google API Key",
+    "redacted_secret": "AIza...XpNY",
+    "line_number": 6
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_server/docker-compose.yaml",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "PASS...WnX\"",
+    "line_number": 10
+  },
+  {
+    "project_name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "repo_url": "https://github.com/kanakapalli/veda",
+    "file_path": "veda_server/docker-compose.yaml",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "PASS...zWW\"",
+    "line_number": 30
+  },
+  {
+    "project_name": "Veridian",
+    "devpost_url": "https://devpost.com/software/veridian-3mjsx4",
+    "repo_url": "https://github.com/VeridianTH/Veridian",
+    "file_path": "scripts/apply_migrations.sh",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...res)",
+    "line_number": 4
+  },
+  {
+    "project_name": "Veridian",
+    "devpost_url": "https://devpost.com/software/veridian-3mjsx4",
+    "repo_url": "https://github.com/VeridianTH/Veridian",
+    "file_path": "scripts/apply_migrations.sh",
+    "secret_type": "Postgres URI",
+    "redacted_secret": "post...res)",
+    "line_number": 13
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 155
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 203
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 379
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 459
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 1035
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 1067
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 2324
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 2612
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 2756
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 3092
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 3172
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 3364
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 155
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 203
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 379
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 459
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 1035
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 1067
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 2324
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 2612
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 2756
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 3092
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 3172
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/validation_report_demo.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 3364
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/test_sample/src/user_service.py",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 6
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "examples/test_sample/test_sample/src/user_service.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...def\"",
+    "line_number": 6
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "Backend/weather-report.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 47
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "Backend/weather-report.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 520
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "Backend/weather-report.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 785
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "Backend/weather-report.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 878
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "Backend/weather-report.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 1298
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "Backend/weather-report.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 1302
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "Backend/weather-report.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 2566
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "Backend/weather-report.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 3132
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "Backend/weather-report.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 3499
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "Backend/weather-report.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 3503
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "Backend/weather-report.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 3670
+  },
+  {
+    "project_name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "repo_url": "https://github.com/dennisliang01/VibeCheck",
+    "file_path": "Backend/weather-report.json",
+    "secret_type": "OpenAI API Key",
+    "redacted_secret": "sk-1...cdef",
+    "line_number": 3791
+  },
+  {
+    "project_name": "Voice of Reason",
+    "devpost_url": "https://devpost.com/software/voice-of-reason-9qkfxa",
+    "repo_url": "https://github.com/lc0001coll/ytFactChecker_TH2026",
+    "file_path": "main.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "api_...KEY\"",
+    "line_number": 11
+  },
+  {
+    "project_name": "Voice of Reason",
+    "devpost_url": "https://devpost.com/software/voice-of-reason-9qkfxa",
+    "repo_url": "https://github.com/lc0001coll/ytFactChecker_TH2026",
+    "file_path": "auditor.py",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...mla\"",
+    "line_number": 70
+  },
+  {
+    "project_name": "EmberWatch",
+    "devpost_url": "https://devpost.com/software/wildfire-ai",
+    "repo_url": "https://github.com/ojas-sanghi/treehacks-2026-wildfires",
+    "file_path": "README.md",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...ere\"",
+    "line_number": 170
+  },
+  {
+    "project_name": "EmberWatch",
+    "devpost_url": "https://devpost.com/software/wildfire-ai",
+    "repo_url": "https://github.com/ojas-sanghi/treehacks-2026-wildfires",
+    "file_path": "docs/DATA_SETUP.md",
+    "secret_type": "Generic High-Entropy Secret",
+    "redacted_secret": "API_...ere\"",
+    "line_number": 66
+  }
+]

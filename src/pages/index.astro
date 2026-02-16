@@ -1,0 +1,439 @@
+---
+import Layout from '../layouts/Layout.astro';
+import findings from '../data/findings.json';
+import projects from '../data/projects.json';
+
+// Compute stats
+const totalProjects = projects.length;
+const scanned = projects.filter(p => p.status === 'scanned').length;
+const noGithub = projects.filter(p => p.status === 'no_github');
+const privateRepos = projects.filter(p => p.status === 'private_repo');
+const errorRepos = projects.filter(p => p.status === 'error');
+const failedRepos = [...privateRepos, ...errorRepos];
+const totalFindings = findings.length;
+
+// Unique repos with leaks
+const reposWithLeaks = new Set(findings.map(f => f.repo_url)).size;
+
+// Breakdown by secret type
+const byType: Record<string, { count: number; repos: Set<string> }> = {};
+for (const f of findings) {
+  if (!byType[f.secret_type]) byType[f.secret_type] = { count: 0, repos: new Set() };
+  byType[f.secret_type].count++;
+  byType[f.secret_type].repos.add(f.repo_url);
+}
+const typeBreakdown = Object.entries(byType)
+  .map(([type, data]) => ({ type, count: data.count, repos: data.repos.size }))
+  .sort((a, b) => b.count - a.count);
+
+// Top offenders (by repo)
+const byRepo: Record<string, { project: string; repo: string; count: number }> = {};
+for (const f of findings) {
+  const repoSlug = f.repo_url.replace('https://github.com/', '');
+  if (!byRepo[repoSlug]) byRepo[repoSlug] = { project: f.project_name, repo: repoSlug, count: 0 };
+  byRepo[repoSlug].count++;
+}
+const topOffenders = Object.values(byRepo).sort((a, b) => b.count - a.count);
+
+// Color mapping for secret types (for the chart)
+const typeColors: Record<string, string> = {
+  'Generic High-Entropy Secret': '#6b7280',
+  'OpenAI API Key': '#10b981',
+  'Google API Key': '#3b82f6',
+  'Postgres URI': '#8b5cf6',
+  'Private Key': '#ef4444',
+  'Supabase Key': '#06b6d4',
+  'Anthropic API Key': '#f59e0b',
+  'MongoDB URI': '#22c55e',
+  'Firebase URL': '#f97316',
+  'Slack Token': '#ec4899',
+  'AWS Access Key': '#ff6347',
+  'Twilio Account SID': '#a855f7',
+};
+---
+
+<Layout title="TreeFail - TreeHacks 2026 Credential Leak Analysis">
+  <!-- Nav -->
+  <nav class="fixed top-0 w-full bg-zinc-950/80 backdrop-blur-md border-b border-zinc-800 z-50">
+    <div class="max-w-6xl mx-auto px-4 h-14 flex items-center justify-between">
+      <a href="#" class="flex items-center gap-2 font-bold text-lg">
+        <img src="/logo.svg" alt="TreeFail" class="h-7 w-7" />
+        TreeFail
+      </a>
+      <div class="hidden sm:flex items-center gap-6 text-sm text-zinc-400">
+        <a href="#stats" class="hover:text-white transition-colors">Stats</a>
+        <a href="#breakdown" class="hover:text-white transition-colors">Breakdown</a>
+        <a href="#offenders" class="hover:text-white transition-colors">Top Repos</a>
+        <a href="#findings" class="hover:text-white transition-colors">Findings</a>
+        <a href="#methodology" class="hover:text-white transition-colors">Methodology</a>
+      </div>
+    </div>
+  </nav>
+
+  <main class="max-w-6xl mx-auto px-4 pt-14">
+    <!-- Hero -->
+    <section class="py-20 sm:py-32 text-center">
+      <div class="flex justify-center mb-6">
+        <img src="/logo.svg" alt="TreeFail logo" class="h-24 w-24 sm:h-32 sm:w-32" />
+      </div>
+      <h1 class="text-5xl sm:text-7xl font-black tracking-tight">
+        Tree<span class="text-red-500">Fail</span>
+      </h1>
+      <p class="mt-4 text-lg sm:text-xl text-zinc-400 max-w-2xl mx-auto">
+        When vibe-coding meets production secrets: a security analysis of
+        <span class="text-white font-semibold">378 TreeHacks 2026</span> hackathon projects.
+      </p>
+      <p class="mt-2 text-sm text-zinc-500">
+        February 2026 &middot; Security Research by <a href="https://fdosmith.dev" class="text-zinc-400 underline underline-offset-2 hover:text-white">Fernando Smith</a>
+      </p>
+      <div class="mt-8 flex justify-center">
+        <a href="#stats" class="px-6 py-3 bg-red-600 hover:bg-red-700 text-white font-medium rounded-lg transition-colors">
+          View the findings &darr;
+        </a>
+      </div>
+    </section>
+
+    <!-- Stats Cards -->
+    <section id="stats" class="py-16 scroll-mt-20">
+      <h2 class="text-3xl font-bold mb-8">Overview</h2>
+      <div class="grid grid-cols-2 lg:grid-cols-4 gap-4">
+        <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
+          <div class="text-3xl sm:text-4xl font-black">{totalProjects}</div>
+          <div class="text-sm text-zinc-400 mt-1">Projects Analyzed</div>
+        </div>
+        <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
+          <div class="text-3xl sm:text-4xl font-black">{scanned}</div>
+          <div class="text-sm text-zinc-400 mt-1">Repos Scanned</div>
+        </div>
+        <div class="bg-zinc-900 border border-red-900/50 rounded-xl p-6">
+          <div class="text-3xl sm:text-4xl font-black text-red-500">{reposWithLeaks}</div>
+          <div class="text-sm text-zinc-400 mt-1">Repos with Leaks</div>
+        </div>
+        <div class="bg-zinc-900 border border-red-900/50 rounded-xl p-6">
+          <div class="text-3xl sm:text-4xl font-black text-red-500">{totalFindings}</div>
+          <div class="text-sm text-zinc-400 mt-1">Credentials Found</div>
+        </div>
+      </div>
+      <p class="mt-4 text-sm text-zinc-500">
+        {noGithub.length} projects had no GitHub link &middot; {failedRepos.length} repos were private or failed to clone
+      </p>
+    </section>
+
+    <!-- Leak Rate Highlight -->
+    <section class="py-8">
+      <div class="bg-gradient-to-r from-red-950/40 to-zinc-900 border border-red-900/30 rounded-xl p-8 text-center">
+        <div class="text-5xl sm:text-6xl font-black text-red-500">
+          {Math.round((reposWithLeaks / scanned) * 100)}%
+        </div>
+        <div class="text-zinc-400 mt-2">of scanned repos contained at least one leaked credential</div>
+      </div>
+    </section>
+
+    <!-- Breakdown by Secret Type -->
+    <section id="breakdown" class="py-16 scroll-mt-20">
+      <h2 class="text-3xl font-bold mb-8">Findings by Secret Type</h2>
+      <div class="grid lg:grid-cols-2 gap-8">
+        <!-- Bar chart -->
+        <div class="space-y-3">
+          {typeBreakdown.map(({ type, count }) => {
+            const maxCount = typeBreakdown[0].count;
+            const pct = (count / maxCount) * 100;
+            const color = typeColors[type] || '#6b7280';
+            return (
+              <div>
+                <div class="flex justify-between text-sm mb-1">
+                  <span class="text-zinc-300">{type}</span>
+                  <span class="text-zinc-500">{count}</span>
+                </div>
+                <div class="h-6 bg-zinc-800 rounded-full overflow-hidden">
+                  <div
+                    class="h-full rounded-full transition-all"
+                    style={`width: ${pct}%; background-color: ${color};`}
+                  />
+                </div>
+              </div>
+            );
+          })}
+        </div>
+
+        <!-- Table -->
+        <div class="overflow-x-auto">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="border-b border-zinc-800 text-zinc-400">
+                <th class="text-left py-3 px-4">Secret Type</th>
+                <th class="text-right py-3 px-4">Count</th>
+                <th class="text-right py-3 px-4">Repos</th>
+              </tr>
+            </thead>
+            <tbody>
+              {typeBreakdown.map(({ type, count, repos }) => (
+                <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/50">
+                  <td class="py-3 px-4">
+                    <span class="inline-block w-2 h-2 rounded-full mr-2" style={`background-color: ${typeColors[type] || '#6b7280'}`} />
+                    {type}
+                  </td>
+                  <td class="text-right py-3 px-4 font-mono">{count}</td>
+                  <td class="text-right py-3 px-4 font-mono">{repos}</td>
+                </tr>
+              ))}
+              <tr class="font-bold">
+                <td class="py-3 px-4">Total</td>
+                <td class="text-right py-3 px-4 font-mono">{totalFindings}</td>
+                <td class="text-right py-3 px-4 font-mono">{reposWithLeaks}</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- Top Offenders -->
+    <section id="offenders" class="py-16 scroll-mt-20">
+      <h2 class="text-3xl font-bold mb-8">Top Repos by Leak Count</h2>
+      <div class="overflow-x-auto">
+        <table class="w-full text-sm">
+          <thead>
+            <tr class="border-b border-zinc-800 text-zinc-400">
+              <th class="text-left py-3 px-4">#</th>
+              <th class="text-left py-3 px-4">Repository</th>
+              <th class="text-left py-3 px-4">Project</th>
+              <th class="text-right py-3 px-4">Findings</th>
+            </tr>
+          </thead>
+          <tbody>
+            {topOffenders.map((row, i) => (
+              <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/50">
+                <td class="py-3 px-4 text-zinc-500">{i + 1}</td>
+                <td class="py-3 px-4">
+                  <a href={`https://github.com/${row.repo}`} target="_blank" rel="noopener" class="text-blue-400 hover:text-blue-300 font-mono text-xs">
+                    {row.repo}
+                  </a>
+                </td>
+                <td class="py-3 px-4 text-zinc-300">{row.project}</td>
+                <td class="text-right py-3 px-4">
+                  <span class={`font-mono font-bold ${row.count >= 10 ? 'text-red-400' : row.count >= 5 ? 'text-orange-400' : 'text-zinc-300'}`}>
+                    {row.count}
+                  </span>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+    <!-- All Findings Table -->
+    <section id="findings" class="py-16 scroll-mt-20">
+      <h2 class="text-3xl font-bold mb-2">All Findings</h2>
+      <p class="text-zinc-400 text-sm mb-6">
+        {totalFindings} credentials found across {reposWithLeaks} repositories. All secrets are redacted.
+      </p>
+
+      <!-- Search box -->
+      <div class="mb-4">
+        <input
+          type="text"
+          id="search-input"
+          placeholder="Search by project, repo, type, or file..."
+          class="w-full sm:w-96 bg-zinc-900 border border-zinc-700 rounded-lg px-4 py-2 text-sm text-zinc-100 placeholder-zinc-500 focus:outline-none focus:border-zinc-500"
+        />
+      </div>
+
+      <div class="overflow-x-auto">
+        <table class="w-full text-sm" id="findings-table">
+          <thead>
+            <tr class="border-b border-zinc-800 text-zinc-400">
+              <th class="text-left py-3 px-3 cursor-pointer hover:text-white" data-sort="project">Project &#8597;</th>
+              <th class="text-left py-3 px-3 cursor-pointer hover:text-white" data-sort="repo">Repo &#8597;</th>
+              <th class="text-left py-3 px-3 cursor-pointer hover:text-white" data-sort="file">File &#8597;</th>
+              <th class="text-left py-3 px-3 cursor-pointer hover:text-white" data-sort="type">Type &#8597;</th>
+              <th class="text-left py-3 px-3">Redacted</th>
+            </tr>
+          </thead>
+          <tbody id="findings-body">
+            {findings.map(f => {
+              const repoSlug = f.repo_url.replace('https://github.com/', '');
+              return (
+                <tr class="border-b border-zinc-800/50 hover:bg-zinc-900/50 finding-row"
+                    data-project={f.project_name.toLowerCase()}
+                    data-repo={repoSlug.toLowerCase()}
+                    data-file={f.file_path.toLowerCase()}
+                    data-type={f.secret_type.toLowerCase()}>
+                  <td class="py-2 px-3 text-zinc-300 max-w-48 truncate">{f.project_name}</td>
+                  <td class="py-2 px-3">
+                    <a href={f.repo_url} target="_blank" rel="noopener" class="text-blue-400 hover:text-blue-300 font-mono text-xs">
+                      {repoSlug}
+                    </a>
+                  </td>
+                  <td class="py-2 px-3 font-mono text-xs text-zinc-400 max-w-64 truncate" title={f.file_path}>
+                    {f.file_path}:{f.line_number}
+                  </td>
+                  <td class="py-2 px-3">
+                    <span class="inline-block w-2 h-2 rounded-full mr-1.5" style={`background-color: ${typeColors[f.secret_type] || '#6b7280'}`} />
+                    <span class="text-xs">{f.secret_type}</span>
+                  </td>
+                  <td class="py-2 px-3 font-mono text-xs text-zinc-500">{f.redacted_secret}</td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+      <p id="no-results" class="hidden text-center text-zinc-500 py-8">No findings match your search.</p>
+    </section>
+
+    <!-- Methodology -->
+    <section id="methodology" class="py-16 scroll-mt-20">
+      <h2 class="text-3xl font-bold mb-8">Methodology</h2>
+      <div class="prose prose-invert prose-zinc max-w-none space-y-6 text-zinc-300">
+        <div class="grid md:grid-cols-2 gap-6">
+          <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
+            <h3 class="text-lg font-semibold text-white mb-3">1. Project Discovery</h3>
+            <p class="text-sm text-zinc-400">
+              Scraped all {totalProjects} project submissions from the TreeHacks 2026 Devpost page.
+              Extracted GitHub repository links from each project listing.
+            </p>
+          </div>
+          <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
+            <h3 class="text-lg font-semibold text-white mb-3">2. Repository Cloning</h3>
+            <p class="text-sm text-zinc-400">
+              Cloned all public GitHub repositories. {noGithub.length} projects had no GitHub link,
+              {privateRepos.length} were private, and {errorRepos.length} failed to clone (timeout).
+            </p>
+          </div>
+          <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
+            <h3 class="text-lg font-semibold text-white mb-3">3. Secret Scanning</h3>
+            <p class="text-sm text-zinc-400">
+              Ran regex-based secret detection across all cloned repos, scanning for API keys,
+              database URIs, private keys, tokens, and other credential patterns.
+            </p>
+          </div>
+          <div class="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
+            <h3 class="text-lg font-semibold text-white mb-3">4. Redaction & Reporting</h3>
+            <p class="text-sm text-zinc-400">
+              All detected secrets were immediately redacted. Only the first 4 and last 4 characters
+              are shown. No credentials were tested, stored, or shared in plain text.
+            </p>
+          </div>
+        </div>
+
+        <div class="bg-amber-950/30 border border-amber-900/30 rounded-xl p-6 mt-8">
+          <h3 class="text-lg font-semibold text-amber-400 mb-2">Responsible Disclosure</h3>
+          <p class="text-sm text-zinc-400">
+            This research was conducted for educational purposes. All secrets are redacted in this report.
+            If you find your project listed and want to rotate your credentials,
+            check out the <a href="https://docs.github.com/en/code-security/secret-scanning" class="text-amber-400 underline">GitHub Secret Scanning docs</a>.
+            If you'd like your project removed from this report, please reach out.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Projects without GitHub / private repos (collapsible) -->
+    <section id="unlisted" class="py-16 scroll-mt-20">
+      <h2 class="text-3xl font-bold mb-8">Projects Not Scanned</h2>
+
+      <details class="group bg-zinc-900 border border-zinc-800 rounded-xl">
+        <summary class="px-6 py-4 cursor-pointer flex items-center justify-between hover:bg-zinc-800/50 rounded-xl transition-colors">
+          <span class="font-semibold">Projects without GitHub links ({noGithub.length})</span>
+          <svg class="w-5 h-5 text-zinc-500 transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        </summary>
+        <div class="px-6 pb-4">
+          <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-2 text-sm">
+            {noGithub.map(p => (
+              <a href={p.devpost_url} target="_blank" rel="noopener" class="text-zinc-400 hover:text-white transition-colors truncate">
+                {p.name}
+              </a>
+            ))}
+          </div>
+        </div>
+      </details>
+
+      <details class="group bg-zinc-900 border border-zinc-800 rounded-xl mt-4">
+        <summary class="px-6 py-4 cursor-pointer flex items-center justify-between hover:bg-zinc-800/50 rounded-xl transition-colors">
+          <span class="font-semibold">Private / failed repos ({failedRepos.length})</span>
+          <svg class="w-5 h-5 text-zinc-500 transition-transform group-open:rotate-180" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+          </svg>
+        </summary>
+        <div class="px-6 pb-4">
+          <table class="w-full text-sm">
+            <thead>
+              <tr class="border-b border-zinc-800 text-zinc-500">
+                <th class="text-left py-2">Project</th>
+                <th class="text-left py-2">Status</th>
+                <th class="text-left py-2">Error</th>
+              </tr>
+            </thead>
+            <tbody>
+              {failedRepos.map(p => (
+                <tr class="border-b border-zinc-800/50">
+                  <td class="py-2">
+                    <a href={p.devpost_url} target="_blank" rel="noopener" class="text-zinc-400 hover:text-white">
+                      {p.name}
+                    </a>
+                  </td>
+                  <td class="py-2 text-zinc-500">{p.status}</td>
+                  <td class="py-2 text-zinc-600 text-xs">{p.error_message}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+      </details>
+    </section>
+
+    <!-- Footer -->
+    <footer class="border-t border-zinc-800 py-8 text-center text-sm text-zinc-500">
+      <p>
+        TreeFail &middot; Security research by <a href="https://fdosmith.dev" class="text-zinc-400 hover:text-white underline underline-offset-2">Fernando Smith</a>
+        &middot; Data from <a href="https://treehacks-2026.devpost.com/" class="text-zinc-400 hover:text-white underline underline-offset-2">TreeHacks 2026</a>
+      </p>
+      <p class="mt-2 text-zinc-600">All credentials are redacted. No secrets were tested or exploited.</p>
+    </footer>
+  </main>
+
+  <!-- Client-side search & sort -->
+  <script>
+    const searchInput = document.getElementById('search-input') as HTMLInputElement;
+    const rows = document.querySelectorAll('.finding-row') as NodeListOf<HTMLElement>;
+    const noResults = document.getElementById('no-results') as HTMLElement;
+
+    searchInput?.addEventListener('input', () => {
+      const q = searchInput.value.toLowerCase().trim();
+      let visible = 0;
+      rows.forEach(row => {
+        const match = !q ||
+          row.dataset.project?.includes(q) ||
+          row.dataset.repo?.includes(q) ||
+          row.dataset.file?.includes(q) ||
+          row.dataset.type?.includes(q);
+        row.style.display = match ? '' : 'none';
+        if (match) visible++;
+      });
+      noResults.classList.toggle('hidden', visible > 0);
+    });
+
+    // Simple column sort
+    const table = document.getElementById('findings-table');
+    const tbody = document.getElementById('findings-body');
+    let sortDir: Record<string, boolean> = {};
+
+    table?.querySelectorAll('th[data-sort]').forEach(th => {
+      th.addEventListener('click', () => {
+        const key = (th as HTMLElement).dataset.sort!;
+        sortDir[key] = !sortDir[key];
+        const rowsArr = Array.from(rows);
+        rowsArr.sort((a, b) => {
+          const aVal = a.dataset[key] || '';
+          const bVal = b.dataset[key] || '';
+          return sortDir[key] ? aVal.localeCompare(bVal) : bVal.localeCompare(aVal);
+        });
+        rowsArr.forEach(row => tbody?.appendChild(row));
+      });
+    });
+  </script>
+</Layout>

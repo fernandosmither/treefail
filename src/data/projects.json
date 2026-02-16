@@ -1,0 +1,3314 @@
+[
+  {
+    "name": "4sight",
+    "devpost_url": "https://devpost.com/software/4sight-neoslb",
+    "github_urls": [
+      "https://github.com/kl527/4sight"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Synapse",
+    "devpost_url": "https://devpost.com/software/a-p1lt2h",
+    "github_urls": [
+      "https://github.com/yravipati/TreeHacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Phone AI",
+    "devpost_url": "https://devpost.com/software/a3-artificial-assistant-for-anything",
+    "github_urls": [
+      "https://github.com/kanakapalli/phone_ai"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "ADAM - Autonomous Disaster Assistance Manager",
+    "devpost_url": "https://devpost.com/software/adam-autonomous-disaster-assistance-manager",
+    "github_urls": [
+      "https://github.com/jeremyky/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "ADapt",
+    "devpost_url": "https://devpost.com/software/adapt-ujvn5e",
+    "github_urls": [
+      "https://github.com/ssiddhantsood/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "ADEX - Adaptive Data Extraction System",
+    "devpost_url": "https://devpost.com/software/adex-adaptive-data-extraction-system",
+    "github_urls": [
+      "https://github.com/kanakapalli/adex"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "AERO//SAR",
+    "devpost_url": "https://devpost.com/software/aero-sar",
+    "github_urls": [
+      "https://github.com/jonvalur/AERO-SAR"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "aesthetica",
+    "devpost_url": "https://devpost.com/software/aesthetica",
+    "github_urls": [
+      "https://github.com/socratesosorio/aesthetica"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "AetherNode",
+    "devpost_url": "https://devpost.com/software/aethernode",
+    "github_urls": [
+      "https://github.com/jeylinnn/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Agent 00Vision",
+    "devpost_url": "https://devpost.com/software/agent-00vision",
+    "github_urls": [
+      "https://github.com/kuzeykantarcioglu/compliance_vision_cloud"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Tidepool Education",
+    "devpost_url": "https://devpost.com/software/agentic-multi-tiered-system-of-supports-a-mtss",
+    "github_urls": [
+      "https://github.com/jdtrinh/Agentic-MTSS"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "AgentPlace",
+    "devpost_url": "https://devpost.com/software/agentplace",
+    "github_urls": [
+      "https://github.com/patidararnav/agentplace"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "AgentRewind",
+    "devpost_url": "https://devpost.com/software/agentrewind",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Agri Lens",
+    "devpost_url": "https://devpost.com/software/agri-lens",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "aimogus",
+    "devpost_url": "https://devpost.com/software/aimogus",
+    "github_urls": [
+      "https://github.com/samarth-bhargav/treehacks-amogus"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "AiOn",
+    "devpost_url": "https://devpost.com/software/aion-n75vj3",
+    "github_urls": [
+      "https://github.com/shikhar0777/anion-rdy"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "alt+cart",
+    "devpost_url": "https://devpost.com/software/alt-cart",
+    "github_urls": [
+      "https://github.com/Supernova-45/Alt-Cart"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "anchor: real-time + graph NN phone scam defense for elders",
+    "devpost_url": "https://devpost.com/software/anchor-real-time-phone-scam-defense-for-older-adults",
+    "github_urls": [
+      "https://github.com/CelesteBean/treehacks-anchor",
+      "https://github.com/hanshaunlee/anchor"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Aperta",
+    "devpost_url": "https://devpost.com/software/aperta-az8gup",
+    "github_urls": [
+      "https://github.com/ApurvGude2000/Aperta"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Arena",
+    "devpost_url": "https://devpost.com/software/arena-lz2m84",
+    "github_urls": [
+      "https://github.com/TomBinford/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "RELAY \u2013 Voice, Search, Stream: Save patients from rigs to ER",
+    "devpost_url": "https://devpost.com/software/aria-voice-search-stream-save-patients-from-rigs-to-er",
+    "github_urls": [
+      "https://github.com/vinamra57/relay"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Asclepiad",
+    "devpost_url": "https://devpost.com/software/asclepiad",
+    "github_urls": [
+      "https://github.com/tmattkim/Asclepiad"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Resonance",
+    "devpost_url": "https://devpost.com/software/asdf-596pqz",
+    "github_urls": [
+      "https://github.com/twosodium/resonance"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "AthenaCare",
+    "devpost_url": "https://devpost.com/software/athenacare",
+    "github_urls": [
+      "https://github.com/amogyisabogy1/Athena-Care"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Atria",
+    "devpost_url": "https://devpost.com/software/atria-az68sw",
+    "github_urls": [
+      "https://github.com/emma-di/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "AtriaAI",
+    "devpost_url": "https://devpost.com/software/atriaai",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "AuraLamp",
+    "devpost_url": "https://devpost.com/software/auralamp",
+    "github_urls": [
+      "https://github.com/amwang9276/treehacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "AutoLab Labs",
+    "devpost_url": "https://devpost.com/software/auto-lab",
+    "github_urls": [
+      "https://github.com/nlee1126/TreeHacks_26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "AutoDuty",
+    "devpost_url": "https://devpost.com/software/autoduty",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Desktop Autonomous Chip Fabrication",
+    "devpost_url": "https://devpost.com/software/autonomous-nanofabrication",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Autopen AI",
+    "devpost_url": "https://devpost.com/software/autopen-ai",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "EMResponse",
+    "devpost_url": "https://devpost.com/software/beacon-icf8k6",
+    "github_urls": [
+      "https://github.com/Tokaido-Sanyou/EMResponse"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "BeeWork",
+    "devpost_url": "https://devpost.com/software/beework",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Bella",
+    "devpost_url": "https://devpost.com/software/bella-frze9h",
+    "github_urls": [
+      "https://github.com/Treehacks2026/treehacks"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "benchwarmer.ai",
+    "devpost_url": "https://devpost.com/software/benchwarmer-7t2fr6",
+    "github_urls": [
+      "https://github.com/pdd23001/Benchwarmer.AI"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "BetBasket",
+    "devpost_url": "https://devpost.com/software/betbasket",
+    "github_urls": [
+      "https://github.com/mirabor/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "BiasArena",
+    "devpost_url": "https://devpost.com/software/bias-arena",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "BikeBot",
+    "devpost_url": "https://devpost.com/software/bikebot",
+    "github_urls": [
+      "https://github.com/Wanderoooo/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "BlackMarkIt",
+    "devpost_url": "https://devpost.com/software/blackmarkit",
+    "github_urls": [
+      "https://github.com/pvelleleth/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Bloom",
+    "devpost_url": "https://devpost.com/software/bloom-dvjpea",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Boardify",
+    "devpost_url": "https://devpost.com/software/boardify",
+    "github_urls": [
+      "https://github.com/AlexiaHyn/Boardify"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Drifter",
+    "devpost_url": "https://devpost.com/software/bobby-5tag3c",
+    "github_urls": [
+      "https://github.com/jacquelanx/geoguessr",
+      "https://github.com/jyl237/geocaptcha"
+    ],
+    "status": "error",
+    "error_message": "clone timeout"
+  },
+  {
+    "name": "Boop",
+    "devpost_url": "https://devpost.com/software/boop-nsjavz",
+    "github_urls": [
+      "https://github.com/ykmattur2005/boop_app_TREEHACKS_2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "BossRoom - Gamifying Work Across 900+ Apps",
+    "devpost_url": "https://devpost.com/software/bossroom",
+    "github_urls": [
+      "https://github.com/Viditjn02/BossRoom"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Brain Crush",
+    "devpost_url": "https://devpost.com/software/brain-crush",
+    "github_urls": [
+      "https://github.com/cc13985/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Brain to Humanoid",
+    "devpost_url": "https://devpost.com/software/brain-to-humanoid",
+    "github_urls": [
+      "https://github.com/Kaweees/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "brain2bach",
+    "devpost_url": "https://devpost.com/software/brain2beet",
+    "github_urls": [
+      "https://github.com/MarkOfUs/brain2bach"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Bramble",
+    "devpost_url": "https://devpost.com/software/bramble-4cegjm",
+    "github_urls": [
+      "https://github.com/JosePerezIV/bramble"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "RepliCAT: Multi-Agent Framework for Reproducing Research",
+    "devpost_url": "https://devpost.com/software/broshengpt",
+    "github_urls": [
+      "https://github.com/JJ-Xie/repliCAT-frontend",
+      "https://github.com/Poarthan/RepliCAT"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Bruno",
+    "devpost_url": "https://devpost.com/software/bruno-st9ov6",
+    "github_urls": [
+      "https://github.com/skumar2006/treehacks26Bruno"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "bubbdy - ai lancher",
+    "devpost_url": "https://devpost.com/software/bubbdy-ai-lancher",
+    "github_urls": [
+      "https://github.com/kanakapalli/deskbubbytest"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Bubble",
+    "devpost_url": "https://devpost.com/software/bubble-5o1ztb",
+    "github_urls": [
+      "https://github.com/quinns-children/bubble"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "BukhaarSaathi",
+    "devpost_url": "https://devpost.com/software/bukhaarsaathi",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Burn",
+    "devpost_url": "https://devpost.com/software/burn-awl3rx",
+    "github_urls": [
+      "https://github.com/aryan-cs/burn"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "BusinessBuddy",
+    "devpost_url": "https://devpost.com/software/businessbuddy-uehadn",
+    "github_urls": [
+      "https://github.com/aw03/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Bye! Buy!",
+    "devpost_url": "https://devpost.com/software/bye-buy",
+    "github_urls": [
+      "https://github.com/jpsingaraju/bye-buy"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "C3",
+    "devpost_url": "https://devpost.com/software/c3",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "CalTrack",
+    "devpost_url": "https://devpost.com/software/caltrack-i0pq3n",
+    "github_urls": [
+      "https://github.com/alangrewco/treehacks"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "CarbonShift",
+    "devpost_url": "https://devpost.com/software/carbonshift",
+    "github_urls": [
+      "https://github.com/ayushgawai/carbonshift"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Symbio",
+    "devpost_url": "https://devpost.com/software/care-ai-4i3scy",
+    "github_urls": [
+      "https://github.com/kwangel/care-ai"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Carebnb",
+    "devpost_url": "https://devpost.com/software/carebnb-y39foj",
+    "github_urls": [
+      "https://github.com/SonaLily/CAREBnB_"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "CareLink",
+    "devpost_url": "https://devpost.com/software/carelink-k1pzeh",
+    "github_urls": [
+      "https://github.com/JoyZhuoz/carelink"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Cena",
+    "devpost_url": "https://devpost.com/software/cena",
+    "github_urls": [
+      "https://github.com/nvemuri4649/treehacks-26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "RealityRip",
+    "devpost_url": "https://devpost.com/software/change-qeonbz",
+    "github_urls": [
+      "https://github.com/DPandaman/RealityRip"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "CHECKR",
+    "devpost_url": "https://devpost.com/software/checkr-gw40jb",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "ChromaChord",
+    "devpost_url": "https://devpost.com/software/chromachord",
+    "github_urls": [
+      "https://github.com/J4Joshua/JASS-APP",
+      "https://github.com/cjbayron/autochord"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Cielo",
+    "devpost_url": "https://devpost.com/software/cielo",
+    "github_urls": [
+      "https://github.com/raynaborah/soesssssss"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "RIFFAI Atlas",
+    "devpost_url": "https://devpost.com/software/civitas-ai",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Neurosymbolic Compliance Engine (NEC)",
+    "devpost_url": "https://devpost.com/software/civitas-ai-regulon-maybe",
+    "github_urls": [
+      "https://github.com/ajha7/neurosymbolic-compliance-engine"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Clarifyd",
+    "devpost_url": "https://devpost.com/software/clarifyd",
+    "github_urls": [
+      "https://github.com/ekagra1602/Clarifyd"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Clarity Coach",
+    "devpost_url": "https://devpost.com/software/clarity-coach-1oxkvl",
+    "github_urls": [
+      "https://github.com/SamhitaK10/clarity-coach"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "clawcraft.",
+    "devpost_url": "https://devpost.com/software/clawcraft",
+    "github_urls": [
+      "https://github.com/kolbytn/mindcraft",
+      "https://github.com/qtzx06/clawcraft"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Clove",
+    "devpost_url": "https://devpost.com/software/clove-ga6v5p",
+    "github_urls": [
+      "https://github.com/dylanytran/clove"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Co:Lab",
+    "devpost_url": "https://devpost.com/software/co-laboratory",
+    "github_urls": [
+      "https://github.com/KevinWu098/co-lab"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "CoachCam",
+    "devpost_url": "https://devpost.com/software/coachcam-scrgam",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Cognivi \u2014 Quick, Accurate Stroke Detection Under $10",
+    "devpost_url": "https://devpost.com/software/cognivi-quick-accurate-stroke-detection-under-10",
+    "github_urls": [
+      "https://github.com/laurie-png/cognivi"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "CoJam",
+    "devpost_url": "https://devpost.com/software/cojam",
+    "github_urls": [
+      "https://github.com/am1ree/cojam"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Concierge",
+    "devpost_url": "https://devpost.com/software/concierge-1tjlf5",
+    "github_urls": [
+      "https://github.com/andaero/treehacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "ContainOS",
+    "devpost_url": "https://devpost.com/software/containos",
+    "github_urls": [
+      "https://github.com/maanitg/containment"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Cosmos",
+    "devpost_url": "https://devpost.com/software/cosmossearch",
+    "github_urls": [
+      "https://github.com/UnknownGod2011/Interstellar"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Crewly",
+    "devpost_url": "https://devpost.com/software/crewly",
+    "github_urls": [
+      "https://github.com/wndyx/Crewly"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "CRISHIRT!",
+    "devpost_url": "https://devpost.com/software/crishirt",
+    "github_urls": [
+      "https://github.com/UnknownGod2011/FIBO"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "ctrl+f",
+    "devpost_url": "https://devpost.com/software/ctrl-f-oc1yr9",
+    "github_urls": [
+      "https://github.com/alemanb/treehacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Curious Catalyst",
+    "devpost_url": "https://devpost.com/software/curiosity-gabstn",
+    "github_urls": [
+      "https://github.com/laasya-konidala/TreeHacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Cursivis",
+    "devpost_url": "https://devpost.com/software/cursivis",
+    "github_urls": [
+      "https://github.com/UnknownGod2011/CURSIVIS"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Daemon",
+    "devpost_url": "https://devpost.com/software/daemon-qwebpd",
+    "github_urls": [
+      "https://github.com/Sachin-dot-py/Daemon"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Daisy",
+    "devpost_url": "https://devpost.com/software/daisy-53nv2j",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Darwin",
+    "devpost_url": "https://devpost.com/software/darwin-npjyhr",
+    "github_urls": [
+      "https://github.com/srivastavanik/darwin"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Data Mapping for Social Equity",
+    "devpost_url": "https://devpost.com/software/data-mapping-for-social-equity",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Daylight",
+    "devpost_url": "https://devpost.com/software/daylight-cqfh6x",
+    "github_urls": [
+      "https://github.com/RyanLe2003/Treehacks"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Detour",
+    "devpost_url": "https://devpost.com/software/detour-64kpds",
+    "github_urls": [
+      "https://github.com/keanucz/detour"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "DialAI: From any phone, to expert answers",
+    "devpost_url": "https://devpost.com/software/dialai-from-any-phone-to-expert-answers",
+    "github_urls": [
+      "https://github.com/SummitStha/lm4sd"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Dialectic",
+    "devpost_url": "https://devpost.com/software/dialectic-us8c5f",
+    "github_urls": [
+      "https://github.com/TreeHacks-2026/dialectic"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "diffuji",
+    "devpost_url": "https://devpost.com/software/diffuji",
+    "github_urls": [
+      "https://github.com/alexkranias/dispo"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Dive Buddy",
+    "devpost_url": "https://devpost.com/software/dive-buddy",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "DocBox",
+    "devpost_url": "https://devpost.com/software/docbox",
+    "github_urls": [
+      "https://github.com/jonaspaoman/DocBox"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Doppelganger",
+    "devpost_url": "https://devpost.com/software/doppelganger-mtxc1f",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": ".dot: bringing humanity to in-home care",
+    "devpost_url": "https://devpost.com/software/dot-bringing-humanity-to-in-home-care",
+    "github_urls": [
+      "https://github.com/o-bm/dot"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Dough's and Don'ts: The Game",
+    "devpost_url": "https://devpost.com/software/dough-s-and-don-ts-the-game",
+    "github_urls": [
+      "https://github.com/ashay-sriv-06/treehacks-doughnut"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "DriveSenseTrainer",
+    "devpost_url": "https://devpost.com/software/drivesensetrainer",
+    "github_urls": [
+      "https://github.com/lukehollingsworth219/TreeHacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "DUI-Vision",
+    "devpost_url": "https://devpost.com/software/dui-sobriety-test-ai-agent",
+    "github_urls": [
+      "https://github.com/ethans0ng/treehack2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "EcholoKernel",
+    "devpost_url": "https://devpost.com/software/echolokernel",
+    "github_urls": [
+      "https://github.com/vincent65/FERB"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "ECO-MATCH",
+    "devpost_url": "https://devpost.com/software/eco-match-u9zrbe",
+    "github_urls": [
+      "https://github.com/Aarush-Garg/Eco-Match-TreeHacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Edge Rescue",
+    "devpost_url": "https://devpost.com/software/edge-rescue",
+    "github_urls": [
+      "https://github.com/eiyer28/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "EdgeCase",
+    "devpost_url": "https://devpost.com/software/edgecase-lsc926",
+    "github_urls": [
+      "https://github.com/jtl06/hard-itl"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "EdgeLedger",
+    "devpost_url": "https://devpost.com/software/edgeledger",
+    "github_urls": [
+      "https://github.com/KrishangParmar/edge-ledger-solutions",
+      "https://github.com/UnknownGod2011/LMAedge"
+    ],
+    "status": "scanned",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "EnergyX",
+    "devpost_url": "https://devpost.com/software/energyx",
+    "github_urls": [
+      "https://github.com/adi-kulkarni1/TreeHacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "evolve(browser)",
+    "devpost_url": "https://devpost.com/software/evolve-browser",
+    "github_urls": [
+      "https://github.com/adeng27/evolve-browser"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "EyeLock",
+    "devpost_url": "https://devpost.com/software/eyelock",
+    "github_urls": [
+      "https://github.com/sienaro/EyeLock"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Figaro",
+    "devpost_url": "https://devpost.com/software/figaro",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Finvisor",
+    "devpost_url": "https://devpost.com/software/finvisor-pxem15",
+    "github_urls": [
+      "https://github.com/blessitac/finvisor"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Fitz",
+    "devpost_url": "https://devpost.com/software/fitz-zbpu8l",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Flashpoint: AI Wildfire Incident Commander",
+    "devpost_url": "https://devpost.com/software/flashpoint-ai-wildfire-incident-commander",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Flow",
+    "devpost_url": "https://devpost.com/software/flow-y8bhvf",
+    "github_urls": [
+      "https://github.com/sei06/treehacks_flow"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Flowcut",
+    "devpost_url": "https://devpost.com/software/flowcut",
+    "github_urls": [
+      "https://github.com/Flowcut-treehacks/core"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "\u2728 Flux",
+    "devpost_url": "https://devpost.com/software/flux-vup1ag",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Foresight",
+    "devpost_url": "https://devpost.com/software/foresight-97nort",
+    "github_urls": [
+      "https://github.com/AkhilBod/Foresight-TreeHacks-"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Form Check",
+    "devpost_url": "https://devpost.com/software/form-check-1j60r7",
+    "github_urls": [
+      "https://github.com/leojia22/Treehacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Freak in the Sheets",
+    "devpost_url": "https://devpost.com/software/freak-in-the-sheets-7jl542",
+    "github_urls": [
+      "https://github.com/kognise/freak-in-the-sheets"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Freestroke",
+    "devpost_url": "https://devpost.com/software/freestroke",
+    "github_urls": [
+      "https://github.com/ashiriag/treehacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "FriendPlace",
+    "devpost_url": "https://devpost.com/software/friendplace",
+    "github_urls": [
+      "https://github.com/DubiousLlama/friend-place-treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Gallop",
+    "devpost_url": "https://devpost.com/software/gallop",
+    "github_urls": [
+      "https://github.com/Eth007/gallop"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "general magic",
+    "devpost_url": "https://devpost.com/software/general-magic",
+    "github_urls": [
+      "https://github.com/leofan90/Awesome-World-Models",
+      "https://github.com/quantbagel/treehacks2026"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "GenUIne",
+    "devpost_url": "https://devpost.com/software/genuine-0pk8vg",
+    "github_urls": [
+      "https://github.com/bobdethird/genUIne"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Ghost in the Machine",
+    "devpost_url": "https://devpost.com/software/ghost-in-the-machine-4je80s",
+    "github_urls": [
+      "https://github.com/matthewover137/pi-ris-public"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Gitty.ai",
+    "devpost_url": "https://devpost.com/software/gitty-ai",
+    "github_urls": [
+      "https://github.com/ethanjoby/gitty",
+      "https://github.com/ethanjoby/gittybackend"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Cortex",
+    "devpost_url": "https://devpost.com/software/glyph-7hjrkp",
+    "github_urls": [
+      "https://github.com/AdityaYC/Cortex-Treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Golden Gate",
+    "devpost_url": "https://devpost.com/software/golden-gate-l3f5xn",
+    "github_urls": [
+      "https://github.com/ericaezhou/golden_gate"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Gravel",
+    "devpost_url": "https://devpost.com/software/gravel-2ltjkd",
+    "github_urls": [
+      "https://github.com/outercloudstudio/private-inference"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Sprout",
+    "devpost_url": "https://devpost.com/software/greenguardian-microfarm",
+    "github_urls": [
+      "https://github.com/lethan3/cactushacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "GridVeda",
+    "devpost_url": "https://devpost.com/software/gridveda",
+    "github_urls": [
+      "https://github.com/TheRaven5520/GridVeda"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Guardian Bed",
+    "devpost_url": "https://devpost.com/software/guardian-bed",
+    "github_urls": [
+      "https://github.com/mrityu75/guardian-bed_treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "quire.ink",
+    "devpost_url": "https://devpost.com/software/gutemgrep",
+    "github_urls": [
+      "https://github.com/nicholascc/gutemgrep"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "HackOverflow: Stack Overflow for AI Agents",
+    "devpost_url": "https://devpost.com/software/hackoverflow-stack-overflow-for-ai-agents-at-hackathons",
+    "github_urls": [
+      "https://github.com/vrinda-inani/treehacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "HeartStart",
+    "devpost_url": "https://devpost.com/software/heartstart",
+    "github_urls": [
+      "https://github.com/nicolewongbiz/cpr-robot"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Heirloom",
+    "devpost_url": "https://devpost.com/software/heirloom-ce1v8h",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "FrontLine",
+    "devpost_url": "https://devpost.com/software/hello-m52pvi",
+    "github_urls": [
+      "https://github.com/sanjanas18/frontline"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Hellocare",
+    "devpost_url": "https://devpost.com/software/hellocare",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Hexi",
+    "devpost_url": "https://devpost.com/software/hexi",
+    "github_urls": [
+      "https://github.com/IvanRatushnyy/TreeHacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "HireUp",
+    "devpost_url": "https://devpost.com/software/hireright",
+    "github_urls": [
+      "https://github.com/pahu2353/HireUp"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "HIVE: Swarm Intelligence.",
+    "devpost_url": "https://devpost.com/software/hive-swarm-intelligence",
+    "github_urls": [
+      "https://github.com/bossbobster/hive"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "HiveSight: Real-Time Multi-Camera Spatial Intelligence",
+    "devpost_url": "https://devpost.com/software/hivesight-real-time-multi-camera-spatial-intelligence",
+    "github_urls": [
+      "https://github.com/nayred3/TreeHacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "ICEalert",
+    "devpost_url": "https://devpost.com/software/icealert",
+    "github_urls": [
+      "https://github.com/coderkai03/icealert",
+      "https://github.com/coderkai03/icealert-mobile"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Coco AI",
+    "devpost_url": "https://devpost.com/software/intent-r84i3t",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Iris",
+    "devpost_url": "https://devpost.com/software/iris-dgucei",
+    "github_urls": [
+      "https://github.com/ThePickleGawd/iris"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Juliette",
+    "devpost_url": "https://devpost.com/software/j-vp1gfb",
+    "github_urls": [
+      "https://github.com/enbaocao/juliette"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "JATLAS",
+    "devpost_url": "https://devpost.com/software/jatlas",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Jetsam",
+    "devpost_url": "https://devpost.com/software/jetsam",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "jiggle wiggle",
+    "devpost_url": "https://devpost.com/software/jiggle-wiggle",
+    "github_urls": [
+      "https://github.com/cindyzli/jigglewiggle"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Kali",
+    "devpost_url": "https://devpost.com/software/kali-0as6cv",
+    "github_urls": [
+      "https://github.com/ShahdAbouhussein/TreeHacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Kardashev",
+    "devpost_url": "https://devpost.com/software/kardashev",
+    "github_urls": [
+      "https://github.com/3LucasZ/kardashev"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Keryx",
+    "devpost_url": "https://devpost.com/software/keryx-k49dta",
+    "github_urls": [
+      "https://github.com/WubbLord/treehacks-26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Kinetic AI",
+    "devpost_url": "https://devpost.com/software/kinetic-ai-ilvr9o",
+    "github_urls": [
+      "https://github.com/rajashekarcs2023/treehacks2026-kinetic"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "kiru",
+    "devpost_url": "https://devpost.com/software/kiru",
+    "github_urls": [
+      "https://github.com/Pranav-Karra-3301/treehacks-26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Klero",
+    "devpost_url": "https://devpost.com/software/klero",
+    "github_urls": [
+      "https://github.com/kkoreilly/klero"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "LectureFlow",
+    "devpost_url": "https://devpost.com/software/lectureflow",
+    "github_urls": [
+      "https://github.com/ChristmasSun/TreeHacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Lets-Cook",
+    "devpost_url": "https://devpost.com/software/lets-cook",
+    "github_urls": [
+      "https://github.com/UnknownGod2011/LetsCook"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "LifeLearn",
+    "devpost_url": "https://devpost.com/software/lifelearn",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Lifelink",
+    "devpost_url": "https://devpost.com/software/lifelink-j2nf9t",
+    "github_urls": [
+      "https://github.com/MythicalCow/lifelink"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "LifeOS",
+    "devpost_url": "https://devpost.com/software/lifeos-wt9qbu",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "LightCell v1.0",
+    "devpost_url": "https://devpost.com/software/lightcell-v1-0",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "LLM-Generated Robot URDF",
+    "devpost_url": "https://devpost.com/software/llm-generated-robot-urdf",
+    "github_urls": [
+      "https://github.com/Kunal2341/tree-hack-robo"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "LocalGuard",
+    "devpost_url": "https://devpost.com/software/localguard",
+    "github_urls": [
+      "https://github.com/RussellBustamante/LocalGuard"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Longshot",
+    "devpost_url": "https://devpost.com/software/longshot",
+    "github_urls": [
+      "https://github.com/andrewcai8/agentswarm",
+      "https://github.com/andrewcai8/swarm-minecraft"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "LoveLace",
+    "devpost_url": "https://devpost.com/software/lovelace-310caj",
+    "github_urls": [
+      "https://github.com/aanikat07/TreeHacks-Project"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Lumina Vision",
+    "devpost_url": "https://devpost.com/software/lumina-vision",
+    "github_urls": [
+      "https://github.com/Alpha04-ash/lumina_vision"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "LUNA",
+    "devpost_url": "https://devpost.com/software/luna-7fe8xm",
+    "github_urls": [
+      "https://github.com/isha-arora-02/LUNA"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Edamame",
+    "devpost_url": "https://devpost.com/software/m-4f2iwy",
+    "github_urls": [
+      "https://github.com/angelinaquan/edamame-treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Make-It",
+    "devpost_url": "https://devpost.com/software/madeit-a21ey5",
+    "github_urls": [
+      "https://github.com/ameshabanjara/treehacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Maestro",
+    "devpost_url": "https://devpost.com/software/maestro-n0uqyz",
+    "github_urls": [
+      "https://github.com/markmusic27/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Magentic",
+    "devpost_url": "https://devpost.com/software/magentic-yqihfw",
+    "github_urls": [
+      "https://github.com/adrian-pan/Magentic"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Mahm: Made At Home... Mmmm",
+    "devpost_url": "https://devpost.com/software/mahm-made-at-home-mmmm",
+    "github_urls": [
+      "https://github.com/sindhu-satish/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "mark.ai",
+    "devpost_url": "https://devpost.com/software/mark-itkvsl",
+    "github_urls": [
+      "https://github.com/akhaire21/treehacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Happy Moments",
+    "devpost_url": "https://devpost.com/software/marou-happy-moments",
+    "github_urls": [
+      "https://github.com/Maroucool/TreeHacks"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "MCP-Forge",
+    "devpost_url": "https://devpost.com/software/mcp-factory",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "MeBoard",
+    "devpost_url": "https://devpost.com/software/meboard",
+    "github_urls": [
+      "https://github.com/emngarcia/MeBoard"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "MedCall",
+    "devpost_url": "https://devpost.com/software/medcall",
+    "github_urls": [
+      "https://github.com/joshitaarora/MedCall"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Medflix",
+    "devpost_url": "https://devpost.com/software/medflix",
+    "github_urls": [
+      "https://github.com/Michael-600/MedFlix"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Medicaid Sherlock",
+    "devpost_url": "https://devpost.com/software/medicaid-sherlock",
+    "github_urls": [
+      "https://github.com/KrishDesai/medicaid-sherlock"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Memoria",
+    "devpost_url": "https://devpost.com/software/memoria-zn70lb",
+    "github_urls": [
+      "https://github.com/jason-zhxn/memoria"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Memory Anchors",
+    "devpost_url": "https://devpost.com/software/memory-anchors",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "mic: Micro prediction markets for what matters",
+    "devpost_url": "https://devpost.com/software/mic-micro-prediction-markets-for-what-matters",
+    "github_urls": [
+      "https://github.com/sohinibanerjee247/treehacks-project-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "MindAssist",
+    "devpost_url": "https://devpost.com/software/mindassist",
+    "github_urls": [
+      "https://github.com/YehyunLee/MindAssist"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "MindOS",
+    "devpost_url": "https://devpost.com/software/mindos-h6q7ve",
+    "github_urls": [
+      "https://github.com/shawncshen/treehacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Minerva",
+    "devpost_url": "https://devpost.com/software/minerva-3sj6z0",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Mira Mira on Da Wall",
+    "devpost_url": "https://devpost.com/software/mira-3xqlos",
+    "github_urls": [
+      "https://github.com/23jmo/mirrorless"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Mira",
+    "devpost_url": "https://devpost.com/software/mira-w65b0a",
+    "github_urls": [
+      "https://github.com/nathanjzhao/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "MixMate",
+    "devpost_url": "https://devpost.com/software/mixmate",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "moatbook",
+    "devpost_url": "https://devpost.com/software/moatbook",
+    "github_urls": [
+      "https://github.com/radi-cho/moatbook"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Mobius: the first AI Agent to build a billion dollar company",
+    "devpost_url": "https://devpost.com/software/mobius-the-first-ai-agent-to-build-a-unicorn",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "RepoRx",
+    "devpost_url": "https://devpost.com/software/molecule-mcbob",
+    "github_urls": [
+      "https://github.com/ezou1/tree26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Monolith",
+    "devpost_url": "https://devpost.com/software/monolith-z10684",
+    "github_urls": [
+      "https://github.com/WingchunSiu/Monolith"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Moral sycophancy benchmarking",
+    "devpost_url": "https://devpost.com/software/moral-sycophancy-benchmarking",
+    "github_urls": [
+      "https://github.com/sanskriti-ss/benchmarking"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Morro",
+    "devpost_url": "https://devpost.com/software/morro",
+    "github_urls": [
+      "https://github.com/Thaarak/graphcast"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Scribble Fighters",
+    "devpost_url": "https://devpost.com/software/mribs",
+    "github_urls": [
+      "https://github.com/potatoeggy/mribs"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "MedWing: Agentic Medicine Delivery w/ Drones",
+    "devpost_url": "https://devpost.com/software/multi-drone-ai-drug-delivery",
+    "github_urls": [
+      "https://github.com/marianaisaw/Drone-SLAM"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Multiple Sclerosis Blood Test using TCR ML Algorithm",
+    "devpost_url": "https://devpost.com/software/multiple-sclerosis-blood-test-using-tcr-ml-algorithm",
+    "github_urls": [
+      "https://github.com/gabrjos6/Model-GUI",
+      "https://github.com/gabrjos6/Preprocessing_pipeline",
+      "https://github.com/zhangbeibei-min/BertTCR"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "kin.ai",
+    "devpost_url": "https://devpost.com/software/mykin-ai",
+    "github_urls": [
+      "https://github.com/douaemaarouf/kin"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Myko",
+    "devpost_url": "https://devpost.com/software/myko",
+    "github_urls": [
+      "https://github.com/Yammmma/myko-treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Navara AI",
+    "devpost_url": "https://devpost.com/software/navara-ai",
+    "github_urls": [
+      "https://github.com/ShruthiSathya/navara_ai"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "NeuraFlow",
+    "devpost_url": "https://devpost.com/software/neuraflow-udrik6",
+    "github_urls": [
+      "https://github.com/stratsid/NeuraFlow"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "NeuroBlocks",
+    "devpost_url": "https://devpost.com/software/neuroblocks-cz7n9k",
+    "github_urls": [
+      "https://github.com/tupdaily/AIPlayground"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "NeuroFlex: Neuroplastic Rehabilitation",
+    "devpost_url": "https://devpost.com/software/neuroflex-paresis-rehabilitation",
+    "github_urls": [
+      "https://github.com/mhtruong1031/TreeHacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Mind+",
+    "devpost_url": "https://devpost.com/software/neurofocus-myvzab",
+    "github_urls": [
+      "https://github.com/bigbrainw/Treehacks26-mac",
+      "https://github.com/bigbrainw/treehacks26-jetson"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "NextOp",
+    "devpost_url": "https://devpost.com/software/nextop",
+    "github_urls": [
+      "https://github.com/cocozxu/NextOp"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Nexus",
+    "devpost_url": "https://devpost.com/software/nexus-dnjzhq",
+    "github_urls": [
+      "https://github.com/Bmohmand/Nexus"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Nexus",
+    "devpost_url": "https://devpost.com/software/nexus-nqpb8m",
+    "github_urls": [
+      "https://github.com/Teddygat0r/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Norbel Arena",
+    "devpost_url": "https://devpost.com/software/norbel-arena",
+    "github_urls": [
+      "https://github.com/anshgandhi4/norbel-arena"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "NoShot (You're Still Leetcoding)",
+    "devpost_url": "https://devpost.com/software/noshot-you-re-still-leetcoding",
+    "github_urls": [
+      "https://github.com/minor/lucidly"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Chom, Nom!",
+    "devpost_url": "https://devpost.com/software/om-nom-y0689d",
+    "github_urls": [
+      "https://github.com/hectorastrom/chom-nom"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Omni AI: The Fully Autonomous Multi-Agent Digital Assistant",
+    "devpost_url": "https://devpost.com/software/omni-ai-the-truly-autonomous-digital-assistant",
+    "github_urls": [
+      "https://github.com/adhvaidhsunny/omni-ai"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "OMNI-ANALYST",
+    "devpost_url": "https://devpost.com/software/omni-analyst",
+    "github_urls": [
+      "https://github.com/RobertUmniy/med-ai-for-lungs"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Omnicart",
+    "devpost_url": "https://devpost.com/software/omnicart-te6pnb",
+    "github_urls": [
+      "https://github.com/snazzyflazzy/Omnicart"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "OncoFilter: A Discovery Pipeline for Cancer Drug Targets",
+    "devpost_url": "https://devpost.com/software/oncofilter-a-discovery-pipeline-for-cancer-drug-targets",
+    "github_urls": [
+      "https://github.com/JonathanZhao222/Cancer-Gene-Screening"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "OnTab",
+    "devpost_url": "https://devpost.com/software/ontab",
+    "github_urls": [
+      "https://github.com/csaye/ontab"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "OpenEvidence for Payer Policies",
+    "devpost_url": "https://devpost.com/software/openevidence-for-payer-policies",
+    "github_urls": [
+      "https://github.com/s-myrzagalym/openevidence-for-payer-policies"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "OpenMotion",
+    "devpost_url": "https://devpost.com/software/openmotion",
+    "github_urls": [
+      "https://github.com/CsCats/treehacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "OpenSwarm",
+    "devpost_url": "https://devpost.com/software/openswarm",
+    "github_urls": [
+      "https://github.com/k-kochhar/OpenHive"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Oper",
+    "devpost_url": "https://devpost.com/software/oper",
+    "github_urls": [
+      "https://github.com/ericrcwu001/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "OptiMATE",
+    "devpost_url": "https://devpost.com/software/optimax",
+    "github_urls": [
+      "https://github.com/hindyros/OptiMATE"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "OrganTrail",
+    "devpost_url": "https://devpost.com/software/organ-trail-5qwz7n",
+    "github_urls": [
+      "https://github.com/charava/organ-transport"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Organic Clusters (OG)",
+    "devpost_url": "https://devpost.com/software/organize-stuff",
+    "github_urls": [
+      "https://github.com/Kalamojo/organize_stuff"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Hero",
+    "devpost_url": "https://devpost.com/software/organmatch",
+    "github_urls": [
+      "https://github.com/angelinawwu/treehacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Other Memories",
+    "devpost_url": "https://devpost.com/software/other-memories",
+    "github_urls": [
+      "https://github.com/AlessandroMason/treehack_front",
+      "https://github.com/AlessandroMason/treehacks_back"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Palma Housing Equilibrium: Autonomous Agentic Governance",
+    "devpost_url": "https://devpost.com/software/palma-housing-equilibrium-autonomous-agentic-governance",
+    "github_urls": [
+      "https://github.com/PauRoca06/Palma-Housing-Equilibrium-Simulation"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "PantryPilot",
+    "devpost_url": "https://devpost.com/software/pantrypilot-94jzqa",
+    "github_urls": [
+      "https://github.com/Akash1912-hub/tree-hacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Pare",
+    "devpost_url": "https://devpost.com/software/pare-98vjwq",
+    "github_urls": [
+      "https://github.com/javierreyno/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Patina",
+    "devpost_url": "https://devpost.com/software/patina",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Patronum",
+    "devpost_url": "https://devpost.com/software/patronum",
+    "github_urls": [
+      "https://github.com/RayHCai/patronum"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Pebble",
+    "devpost_url": "https://devpost.com/software/pebble-90j1q6",
+    "github_urls": [
+      "https://github.com/anthropics/claude-agent-sdk",
+      "https://github.com/zane-programs/treehacks-pebble"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "PhysioLens",
+    "devpost_url": "https://devpost.com/software/physiolens",
+    "github_urls": [
+      "https://github.com/sherwinvishesh/PhysioLens"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "pigeonhole",
+    "devpost_url": "https://devpost.com/software/pigeonhole",
+    "github_urls": [
+      "https://github.com/danielmargento/course-ta-bot"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Pilot",
+    "devpost_url": "https://devpost.com/software/pilot-glb9kd",
+    "github_urls": [
+      "https://github.com/arihanv/pilot"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "PinkRibbon",
+    "devpost_url": "https://devpost.com/software/pinkribbon",
+    "github_urls": [
+      "https://github.com/priyanka-stanf/pink-ribbon"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Pirates",
+    "devpost_url": "https://devpost.com/software/pirates-w09x2f",
+    "github_urls": [
+      "https://github.com/rosie-m-banks/pirates"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Pistis Labs",
+    "devpost_url": "https://devpost.com/software/pistis-labs",
+    "github_urls": [
+      "https://github.com/chbayah-sudo/pistis-labs"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Suyes",
+    "devpost_url": "https://devpost.com/software/pitchblende",
+    "github_urls": [
+      "https://github.com/Jfhseh/Convolution2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "PivotCraft",
+    "devpost_url": "https://devpost.com/software/pivotcraft",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Space Agents!",
+    "devpost_url": "https://devpost.com/software/placeholder-buvkif",
+    "github_urls": [
+      "https://github.com/ThoseWhoHackTrees/agent-vis"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Plantasia",
+    "devpost_url": "https://devpost.com/software/plantasia",
+    "github_urls": [
+      "https://github.com/suchithh/plantasia"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Plotd",
+    "devpost_url": "https://devpost.com/software/plotd",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "POKE ULTRA UNIVERSE",
+    "devpost_url": "https://devpost.com/software/poke-ultra-universe",
+    "github_urls": [
+      "https://github.com/dourian/POKE-ULTRA-UNIVERSE"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Pokestrator",
+    "devpost_url": "https://devpost.com/software/pokestrator",
+    "github_urls": [
+      "https://github.com/sabdulmajid/Pokestrator"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Power Lever",
+    "devpost_url": "https://devpost.com/software/power-lever",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Prereq",
+    "devpost_url": "https://devpost.com/software/prereq-sg1thw",
+    "github_urls": [
+      "https://github.com/jasonyi33/prereq"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Probability Maxxing",
+    "devpost_url": "https://devpost.com/software/probability-maxxing",
+    "github_urls": [
+      "https://github.com/jaisharmz/treehacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Probe",
+    "devpost_url": "https://devpost.com/software/probe-q2me8r",
+    "github_urls": [
+      "https://github.com/Ecpii/boiling-ocean"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Procure",
+    "devpost_url": "https://devpost.com/software/procure-jafrn0",
+    "github_urls": [
+      "https://github.com/mk-sriram/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "ProduceThing",
+    "devpost_url": "https://devpost.com/software/producething",
+    "github_urls": [
+      "https://github.com/ads2280/treehacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Project helper",
+    "devpost_url": "https://devpost.com/software/project-helper",
+    "github_urls": [
+      "https://github.com/kanakapalli/project_helper"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Project Lend",
+    "devpost_url": "https://devpost.com/software/project-lend",
+    "github_urls": [
+      "https://github.com/PranavViswanath/project-lend"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Provability",
+    "devpost_url": "https://devpost.com/software/provability",
+    "github_urls": [
+      "https://github.com/balaji-balachandran/Proovability"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Puzzled",
+    "devpost_url": "https://devpost.com/software/puzzled-c1y9ub",
+    "github_urls": [
+      "https://github.com/Adas4044/puzzled"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "qpilot",
+    "devpost_url": "https://devpost.com/software/qpilot",
+    "github_urls": [
+      "https://github.com/arulrhikm/SpotQuantum",
+      "https://github.com/szaozerska/qpilot"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Quest Central",
+    "devpost_url": "https://devpost.com/software/quest-central",
+    "github_urls": [
+      "https://github.com/PigeonZow/quest-central"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Shepherd",
+    "devpost_url": "https://devpost.com/software/raising-cane",
+    "github_urls": [
+      "https://github.com/tonywangs/shepherd"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Rally",
+    "devpost_url": "https://devpost.com/software/rally-fmiosz",
+    "github_urls": [
+      "https://github.com/aaditgupta21/treehacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "re:zero",
+    "devpost_url": "https://devpost.com/software/re-zero",
+    "github_urls": [
+      "https://github.com/tetraslam/rezero"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "RT-Treat: Real-time neuronal analysis for epilepsy treatment",
+    "devpost_url": "https://devpost.com/software/real-time-neuronal-signal-analysis-for-epilepsy-treatment",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Reasonable Graphs",
+    "devpost_url": "https://devpost.com/software/reasonable-graphs",
+    "github_urls": [
+      "https://github.com/assasin2gamer/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "RecoveryLab: Personalized AI-Powered Physical Therapy",
+    "devpost_url": "https://devpost.com/software/recoverylab",
+    "github_urls": [
+      "https://github.com/jamesgu888/RecoveryLab"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Redhue",
+    "devpost_url": "https://devpost.com/software/redhue",
+    "github_urls": [
+      "https://github.com/micah872/Redhue"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Reflex",
+    "devpost_url": "https://devpost.com/software/reflex-db5hji",
+    "github_urls": [
+      "https://github.com/HikaruSadashi/reflex-backend",
+      "https://github.com/HikaruSadashi/reflex-landingpage"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "ReHeart",
+    "devpost_url": "https://devpost.com/software/reheart",
+    "github_urls": [
+      "https://github.com/chiragbhansali/reheart-treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Remote Surgical",
+    "devpost_url": "https://devpost.com/software/remote-surgical",
+    "github_urls": [
+      "https://github.com/zlj8800/remote-surgical"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Remy",
+    "devpost_url": "https://devpost.com/software/remy-qhcw4s",
+    "github_urls": [
+      "https://github.com/fightingj305/remy-treehacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Blinket",
+    "devpost_url": "https://devpost.com/software/renaissance-845het",
+    "github_urls": [
+      "https://github.com/idalmas/Blinkit-med"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "RePlate",
+    "devpost_url": "https://devpost.com/software/replate-n3yaul",
+    "github_urls": [
+      "https://github.com/JZhang-305/RePlate"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "RescueRX",
+    "devpost_url": "https://devpost.com/software/rescuerx",
+    "github_urls": [
+      "https://github.com/Donglomur/TreeHacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "research atelier",
+    "devpost_url": "https://devpost.com/software/research-atelier",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "ReSight",
+    "devpost_url": "https://devpost.com/software/resight-ah45vl",
+    "github_urls": [
+      "https://github.com/vietnguyen2358/ReSight"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Resonant CWPP: AI Wildfire Safety Advisor",
+    "devpost_url": "https://devpost.com/software/resonant-cwpp-ai-wildfire-safety-advisor",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Rewind",
+    "devpost_url": "https://devpost.com/software/rewind-2fyn30",
+    "github_urls": [
+      "https://github.com/Tar-ive/rewind"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Rewrite",
+    "devpost_url": "https://devpost.com/software/rewrite-2snpat",
+    "github_urls": [
+      "https://github.com/NoahCodes23/TreeHacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "RLX-ray",
+    "devpost_url": "https://devpost.com/software/rlx-ray",
+    "github_urls": [
+      "https://github.com/MittelmanDaniel/agent-observability"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "RoadRangers",
+    "devpost_url": "https://devpost.com/software/roadrangers",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Omni",
+    "devpost_url": "https://devpost.com/software/rtms",
+    "github_urls": [
+      "https://github.com/Ishan-Sinha123/treehacks_26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "s-Ai-lor",
+    "devpost_url": "https://devpost.com/software/s-ai-lor-vxpjzm",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "StubbleX",
+    "devpost_url": "https://devpost.com/software/s-e6r3p9",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "SafeLine",
+    "devpost_url": "https://devpost.com/software/safeline-qvlzdg",
+    "github_urls": [
+      "https://github.com/arnauldmartinez/treehacks-test"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "StreetSense",
+    "devpost_url": "https://devpost.com/software/saferoute-ye7zgr",
+    "github_urls": [
+      "https://github.com/as5322/StreetSense_TreeHacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Salus",
+    "devpost_url": "https://devpost.com/software/salus-ol0zde",
+    "github_urls": [
+      "https://github.com/sagarwal02/salus"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Sandbox",
+    "devpost_url": "https://devpost.com/software/sandbox-fsvg1l",
+    "github_urls": [
+      "https://github.com/Gracemxli/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Sant\u00e9",
+    "devpost_url": "https://devpost.com/software/sante-o5uv9q",
+    "github_urls": [
+      "https://github.com/AyanJhunjhunwala/sante"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Sauce, please? A Background Check for Every Video You Watch",
+    "devpost_url": "https://devpost.com/software/sauce-please",
+    "github_urls": [
+      "https://github.com/GabeTsai/short-detective"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Savor",
+    "devpost_url": "https://devpost.com/software/savor-2qn7ax",
+    "github_urls": [
+      "https://github.com/Deanbarrow10/savor"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "sched",
+    "devpost_url": "https://devpost.com/software/sched-o6jbsp",
+    "github_urls": [
+      "https://github.com/not-aryan/sched"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "School of Fish",
+    "devpost_url": "https://devpost.com/software/school-of-fish",
+    "github_urls": [
+      "https://github.com/Commandtechno/school-of-fish"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Scope",
+    "devpost_url": "https://devpost.com/software/scope-2l7yub",
+    "github_urls": [
+      "https://github.com/batyr0601/treehacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Scrap",
+    "devpost_url": "https://devpost.com/software/scrap",
+    "github_urls": [
+      "https://github.com/phananhle/scrap"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Autonomous Dual Mandate Agent",
+    "devpost_url": "https://devpost.com/software/sdfdsf-rn1dza",
+    "github_urls": [
+      "https://github.com/UniversalDreams/Policy-Error-"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Semidirectional YOLO-Based Aquatic Unit (SYBAU)",
+    "devpost_url": "https://devpost.com/software/semi-directional-yolo-based-aquatic-unit-sybau",
+    "github_urls": [
+      "https://github.com/SuperBigMac/treehacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Sentinel.AI",
+    "devpost_url": "https://devpost.com/software/sentinel-ai-ihufb0",
+    "github_urls": [
+      "https://github.com/timsinashok/ForeSight-Safety",
+      "https://github.com/timsinashok/cosmos-predict2.5"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Sentinel",
+    "devpost_url": "https://devpost.com/software/sentinel-c8ki50",
+    "github_urls": [
+      "https://github.com/apple-314/treehacks26"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Sentinel",
+    "devpost_url": "https://devpost.com/software/sentinel-zor2uw",
+    "github_urls": [
+      "https://github.com/EKasuti/sentinel"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "SEO Ghostwriter Agent",
+    "devpost_url": "https://devpost.com/software/seo-ghostwriter-agent-m9au8f",
+    "github_urls": [
+      "https://github.com/Marvellousabio/SEO-expert"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "ServeNow",
+    "devpost_url": "https://devpost.com/software/servenow",
+    "github_urls": [
+      "https://github.com/AUGUSTHAJEYAMUKILYAM/SERVENOW"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "ShadowGuard",
+    "devpost_url": "https://devpost.com/software/shadowguard-l6yv7p",
+    "github_urls": [
+      "https://github.com/shamanthak-hegde/ShadowGuard"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "ShotSpot",
+    "devpost_url": "https://devpost.com/software/shotspot-kfvp1n",
+    "github_urls": [
+      "https://github.com/aedutta/shot-spot-treehacks-26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "SideQuest",
+    "devpost_url": "https://devpost.com/software/sidequest-e87lfq",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Signify",
+    "devpost_url": "https://devpost.com/software/signify-ca8xp7",
+    "github_urls": [
+      "https://github.com/suhaankhan2007/Signify"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "SiriClaw - an AI agent that executes tasks on your phone.",
+    "devpost_url": "https://devpost.com/software/siriclaw-an-ai-agent-that-executes-tasks-on-your-phone",
+    "github_urls": [
+      "https://github.com/Adil-Jussupov/SiriClaw"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Skyheart",
+    "devpost_url": "https://devpost.com/software/skyheart",
+    "github_urls": [
+      "https://github.com/Mootbing/SkyHeart"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "SkyWalker",
+    "devpost_url": "https://devpost.com/software/skywalker-57kghq",
+    "github_urls": [
+      "https://github.com/ADJsBuilds/SmartWalker"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "SleepSense",
+    "devpost_url": "https://devpost.com/software/sleepsense-h52ma3",
+    "github_urls": [
+      "https://github.com/raj-chinagundi/treehacks-26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "snap & seek",
+    "devpost_url": "https://devpost.com/software/snap-seek-ymxtkl",
+    "github_urls": [
+      "https://github.com/SuperZooper3/snap-and-seek"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Snappier",
+    "devpost_url": "https://devpost.com/software/snappier",
+    "github_urls": [
+      "https://github.com/nintang/snappier-treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Sniff",
+    "devpost_url": "https://devpost.com/software/sniff-l9xk1q",
+    "github_urls": [
+      "https://github.com/thenerd31/sniff"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Somni AI",
+    "devpost_url": "https://devpost.com/software/somni-ai",
+    "github_urls": [
+      "https://github.com/KartikeyaGoel/treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Spartan | Edge AI Situational Helmet for First Responders",
+    "devpost_url": "https://devpost.com/software/spartan-edge-ai-situational-helmet-for-first-responders",
+    "github_urls": [
+      "https://github.com/Ekansh-Mittal1/spartan"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Eloception",
+    "devpost_url": "https://devpost.com/software/speechcoach-vzynxl",
+    "github_urls": [
+      "https://github.com/AnnieWang314/treehacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Step Step Learn",
+    "devpost_url": "https://devpost.com/software/step-step-learn",
+    "github_urls": [
+      "https://github.com/laureny17/JAEL"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Strata",
+    "devpost_url": "https://devpost.com/software/strata-cbq07h",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Study Transit",
+    "devpost_url": "https://devpost.com/software/study-transit",
+    "github_urls": [
+      "https://github.com/zaryaabkhan/studytransit"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Sunday",
+    "devpost_url": "https://devpost.com/software/sunday-94odas",
+    "github_urls": [
+      "https://github.com/priyanshbhatter24/sunday"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Superspace",
+    "devpost_url": "https://devpost.com/software/superspace-3wkvde",
+    "github_urls": [
+      "https://github.com/Dude346/The_Ultimate_FloorPlan"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Carets",
+    "devpost_url": "https://devpost.com/software/swarms",
+    "github_urls": [
+      "https://github.com/Sukhamrit-Singh/Swarms"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Switch",
+    "devpost_url": "https://devpost.com/software/switch-lw7n4j",
+    "github_urls": [
+      "https://github.com/onwaneri/reading-switch"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Synapsis",
+    "devpost_url": "https://devpost.com/software/synapsis",
+    "github_urls": [
+      "https://github.com/SirihaasaNallamothu28/treehacks2026_ben_siri_jennifer"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Mirage",
+    "devpost_url": "https://devpost.com/software/synsplatt",
+    "github_urls": [
+      "https://github.com/kyan-yang/treehacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "TA-DA: Intelligent Teaching Assistant",
+    "devpost_url": "https://devpost.com/software/ta-da-intelligent-teaching-assistant",
+    "github_urls": [
+      "https://github.com/pb2323/TA-da"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "TargetONCO - Turning Weeks of Cancer Analysis into Minutes",
+    "devpost_url": "https://devpost.com/software/targetonco-reasoning-engine-for-precision-oncology",
+    "github_urls": [
+      "https://github.com/tomtommyyuan/targetONCO"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Current",
+    "devpost_url": "https://devpost.com/software/tbd-25xmzs",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Tempo",
+    "devpost_url": "https://devpost.com/software/tempo-l1idkw",
+    "github_urls": [
+      "https://github.com/DoggoOP/Tempo"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Tessera \u2014\u00a0Ecommerce Made Effortless",
+    "devpost_url": "https://devpost.com/software/tessera",
+    "github_urls": [
+      "https://github.com/michael-OvO/tessera"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "CareSync",
+    "devpost_url": "https://devpost.com/software/test-zdxlf0",
+    "github_urls": [
+      "https://github.com/SpartaKushK/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "med sec",
+    "devpost_url": "https://devpost.com/software/th26",
+    "github_urls": [
+      "https://github.com/propadiene-1/TreeHacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Flexion Detection",
+    "devpost_url": "https://devpost.com/software/the-boys-are-flexing",
+    "github_urls": [
+      "https://github.com/ericyin23/Flexion-Detection-TreeHacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "The Cookbook",
+    "devpost_url": "https://devpost.com/software/the-cookbook-9rqgb2",
+    "github_urls": [
+      "https://github.com/shamit05/the_cookbook"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "The First Match",
+    "devpost_url": "https://devpost.com/software/the-first-match",
+    "github_urls": [
+      "https://github.com/ramlukn/treehacks"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "The Magic Table",
+    "devpost_url": "https://devpost.com/software/the-magic-table",
+    "github_urls": [
+      "https://github.com/Jaybear411/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "The Orchestration Company of Palo Alto",
+    "devpost_url": "https://devpost.com/software/the-orchestration-company-of-palo-alto",
+    "github_urls": [
+      "https://github.com/FO214/treehacks",
+      "https://github.com/soooooooot/treehacks-agent-repo"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "The robot data project",
+    "devpost_url": "https://devpost.com/software/the-robot-data-project",
+    "github_urls": [
+      "https://github.com/andics/the-robot-data-project"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "ThirdParty",
+    "devpost_url": "https://devpost.com/software/thirdparty",
+    "github_urls": [
+      "https://github.com/kevenpi/Third-Party"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Thread",
+    "devpost_url": "https://devpost.com/software/thread-6jx04m",
+    "github_urls": [
+      "https://github.com/arjanssuri/thread"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "TickerMaster",
+    "devpost_url": "https://devpost.com/software/tickermaster",
+    "github_urls": [
+      "https://github.com/arijitchakma79/TickerMaster"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "TigerPop",
+    "devpost_url": "https://devpost.com/software/tigerpop",
+    "github_urls": [
+      "https://github.com/angelztang/treehacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Timbermarket",
+    "devpost_url": "https://devpost.com/software/timbermarket",
+    "github_urls": [
+      "https://github.com/Di10n/timbermarket"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Tonguekeeper",
+    "devpost_url": "https://devpost.com/software/tonguekeeper",
+    "github_urls": [
+      "https://github.com/lourdrickvalsote/tonguekeeper"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "TORQ",
+    "devpost_url": "https://devpost.com/software/torq",
+    "github_urls": [
+      "https://github.com/JoelGrayson/Treehacks2026",
+      "https://github.com/bryandong24/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "TradeProof",
+    "devpost_url": "https://devpost.com/software/tradeproof",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Trading in XR with pico",
+    "devpost_url": "https://devpost.com/software/trading-with-pico-reality",
+    "github_urls": [
+      "https://github.com/kanakapalli/Trading_XR"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "Trading XR",
+    "devpost_url": "https://devpost.com/software/trading-xr",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Treemux",
+    "devpost_url": "https://devpost.com/software/treemux",
+    "github_urls": [
+      "https://github.com/ojpbarbosa/treehacks-26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "TreeSats",
+    "devpost_url": "https://devpost.com/software/treesats",
+    "github_urls": [
+      "https://github.com/lundeen06/treesats"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Tribune",
+    "devpost_url": "https://devpost.com/software/tribune",
+    "github_urls": [
+      "https://github.com/arihantjain4/Tribune"
+    ],
+    "status": "error",
+    "error_message": "clone timeout"
+  },
+  {
+    "name": "Truman",
+    "devpost_url": "https://devpost.com/software/truman",
+    "github_urls": [
+      "https://github.com/jack-herrmann/truman"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "TruthLens",
+    "devpost_url": "https://devpost.com/software/truthlens-u8exz1",
+    "github_urls": [
+      "https://github.com/rajabrehan/truthlens_treehacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Usaid",
+    "devpost_url": "https://devpost.com/software/usaid-nqpfk2",
+    "github_urls": [
+      "https://github.com/ritikiitg/feb-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "VEDA - AI Coach",
+    "devpost_url": "https://devpost.com/software/veda-3j6rq8",
+    "github_urls": [
+      "https://github.com/kanakapalli/veda"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Velari",
+    "devpost_url": "https://devpost.com/software/velari",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Klip AI",
+    "devpost_url": "https://devpost.com/software/velocity-studio",
+    "github_urls": [
+      "https://github.com/immedha/treehacks2026_heygen"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Vera",
+    "devpost_url": "https://devpost.com/software/vera-8bjf1g",
+    "github_urls": [
+      "https://github.com/carlosmbe/CYT-TreeHacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Vera",
+    "devpost_url": "https://devpost.com/software/vera-xsbhj0",
+    "github_urls": [
+      "https://github.com/eden-byte/TreeHacks"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Veridian",
+    "devpost_url": "https://devpost.com/software/veridian-3mjsx4",
+    "github_urls": [
+      "https://github.com/VeridianTH/Veridian"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Veritas Arena",
+    "devpost_url": "https://devpost.com/software/veritas-arena",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "VetAI",
+    "devpost_url": "https://devpost.com/software/vetai",
+    "github_urls": [
+      "https://github.com/janprasad/HealthDetection"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Vetted",
+    "devpost_url": "https://devpost.com/software/vetted-j92ynh",
+    "github_urls": [
+      "https://github.com/garysun1/TreeHacksProject"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Vibe Video",
+    "devpost_url": "https://devpost.com/software/vibe-video-5ndrj4",
+    "github_urls": [
+      "https://github.com/Arihan10/Vibe-Video-Test"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "VibeRight",
+    "devpost_url": "https://devpost.com/software/viberight",
+    "github_urls": [
+      "https://github.com/dennisliang01/VibeCheck"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "VIPER",
+    "devpost_url": "https://devpost.com/software/viper-3dr107",
+    "github_urls": [
+      "https://github.com/kkaura28/treehacks-2026"
+    ],
+    "status": "error",
+    "error_message": "clone timeout"
+  },
+  {
+    "name": "VisionOS",
+    "devpost_url": "https://devpost.com/software/visionos-5euxo7",
+    "github_urls": [
+      "https://github.com/ledaniel0/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Voice of Reason",
+    "devpost_url": "https://devpost.com/software/voice-of-reason-9qkfxa",
+    "github_urls": [
+      "https://github.com/lc0001coll/ytFactChecker_TH2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Voider",
+    "devpost_url": "https://devpost.com/software/voider",
+    "github_urls": [
+      "https://github.com/Sohamiscurious/TreeHacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Voxal CAD",
+    "devpost_url": "https://devpost.com/software/voxal-cad",
+    "github_urls": [
+      "https://github.com/ishakan/TreeHacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Wavelength",
+    "devpost_url": "https://devpost.com/software/wavelength-7ilf2v",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "Robosurge",
+    "devpost_url": "https://devpost.com/software/we-use-nix",
+    "github_urls": [
+      "https://github.com/quantum9Innovation/treehacks2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "What If?",
+    "devpost_url": "https://devpost.com/software/what-if-t78igk",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "EmberWatch",
+    "devpost_url": "https://devpost.com/software/wildfire-ai",
+    "github_urls": [
+      "https://github.com/ojas-sanghi/treehacks-2026-wildfires"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Worldly",
+    "devpost_url": "https://devpost.com/software/worldly-0tm3bl",
+    "github_urls": [
+      "https://github.com/vihaanm23/worldly"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Vigil",
+    "devpost_url": "https://devpost.com/software/wristguard",
+    "github_urls": [
+      "https://github.com/anirudhmazumder/TreeHacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Yavuli",
+    "devpost_url": "https://devpost.com/software/yavuli",
+    "github_urls": [
+      "https://github.com/Yavuli/client-yavuli"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "YOGA-XR",
+    "devpost_url": "https://devpost.com/software/yoga-13dmup",
+    "github_urls": [
+      "https://github.com/kanakapalli/YOGA_XR"
+    ],
+    "status": "private_repo",
+    "error_message": "repository not found or private"
+  },
+  {
+    "name": "yooni",
+    "devpost_url": "https://devpost.com/software/yooni",
+    "github_urls": [
+      "https://github.com/nolawiyonas1/yooni"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "Zeta",
+    "devpost_url": "https://devpost.com/software/zeta-jwq9te",
+    "github_urls": [
+      "https://github.com/aryans-15/treehacks-2026"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "ZoneZero",
+    "devpost_url": "https://devpost.com/software/zonezero",
+    "github_urls": [],
+    "status": "no_github",
+    "error_message": null
+  },
+  {
+    "name": "zoomED",
+    "devpost_url": "https://devpost.com/software/zoomed-pnklzv",
+    "github_urls": [
+      "https://github.com/tiaL-ops/zoomED"
+    ],
+    "status": "scanned",
+    "error_message": null
+  },
+  {
+    "name": "zoomin",
+    "devpost_url": "https://devpost.com/software/zoomin",
+    "github_urls": [
+      "https://github.com/arianna-caow/TreeHacks26"
+    ],
+    "status": "scanned",
+    "error_message": null
+  }
+]
